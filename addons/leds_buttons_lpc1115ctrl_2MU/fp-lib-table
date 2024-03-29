@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "led-taster_4te_v0.01")(type "KiCad")(uri "$(KIPRJMOD)/led-taster_4te_v0.01.pretty")(options "")(descr ""))
+)
