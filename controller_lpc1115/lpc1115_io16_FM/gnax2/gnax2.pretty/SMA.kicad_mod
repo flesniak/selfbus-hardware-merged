@@ -1,0 +1,77 @@
+(footprint "SMA" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "<b>SMA</b> CASE 403D-02<p>\nSource: http://www.onsemi.com/pub_link/Collateral/MBRA340T3-D.PDF")
+  (fp_text reference "REF**" (at -2.75 -2) (layer "F.SilkS")
+      (effects (font (size 1.143 1.143) (thickness 0.127)) (justify left bottom))
+    (tstamp 024b43f8-0440-41e4-82c7-d03a280ceddd)
+  )
+  (fp_text value "SMA" (at -2.75 3.5) (layer "F.Fab")
+      (effects (font (size 1.143 1.143) (thickness 0.127)) (justify left bottom))
+    (tstamp 54d51a45-b5e3-4f64-afe6-559078696801)
+  )
+  (fp_line (start -2.25 -1.825) (end -2.25 -1.25)
+    (stroke (width 0.254) (type solid)) (layer "F.SilkS") (tstamp 3901f14b-d15e-49b4-aa0a-185ec5a83f3a))
+  (fp_line (start -2.25 -1.825) (end 2.25 -1.825)
+    (stroke (width 0.254) (type solid)) (layer "F.SilkS") (tstamp 068e130b-2af1-424a-ab8b-1190e138b8de))
+  (fp_line (start -2.25 1.825) (end -2.25 1.25)
+    (stroke (width 0.254) (type solid)) (layer "F.SilkS") (tstamp 19ae211d-5f70-49ed-ba89-9cf47b61bab2))
+  (fp_line (start 2.25 -1.825) (end 2.25 -1.25)
+    (stroke (width 0.254) (type solid)) (layer "F.SilkS") (tstamp 786f0851-e1b2-4603-92e2-c3db70f9e617))
+  (fp_line (start 2.25 1.825) (end -2.25 1.825)
+    (stroke (width 0.254) (type solid)) (layer "F.SilkS") (tstamp f313a1d2-dcc1-4449-a0ab-23e044852d89))
+  (fp_arc (start 2.25 1.825) (mid 2.247611 1.5375) (end 2.25 1.25)
+    (stroke (width 0.254) (type solid)) (layer "F.SilkS") (tstamp b5963ddc-99f1-4a67-9f87-d17096a7b799))
+  (fp_poly
+    (pts
+      (xy -1.5 -1.25)
+      (xy -0.75 -1.25)
+      (xy -0.75 -1.75)
+      (xy -1.5 -1.75)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.SilkS") (tstamp 6c717019-7859-49de-9b93-98b620aa9803))
+  (fp_poly
+    (pts
+      (xy -1.5 1.75)
+      (xy -0.75 1.75)
+      (xy -0.75 1.25)
+      (xy -1.5 1.25)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.SilkS") (tstamp a4028e61-980c-483f-9778-4320efb43a4f))
+  (fp_line (start -2.25 1.25) (end -2.25 -1.25)
+    (stroke (width 0.254) (type solid)) (layer "F.Fab") (tstamp 51c15d05-f699-4e24-9f43-a81204eb3022))
+  (fp_line (start 2.25 -1.25) (end 2.25 1.25)
+    (stroke (width 0.254) (type solid)) (layer "F.Fab") (tstamp 19814535-4152-4deb-a802-47060c7e557b))
+  (fp_poly
+    (pts
+      (xy -2.8 0.8)
+      (xy -2.38 0.8)
+      (xy -2.38 -0.8)
+      (xy -2.8 -0.8)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp b7b12e7c-eb27-428c-be27-e5f1c65fa91e))
+  (fp_poly
+    (pts
+      (xy -1.5 1.75)
+      (xy -0.75 1.75)
+      (xy -0.75 -1.75)
+      (xy -1.5 -1.75)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp b7d54534-d4a5-4385-8699-610c91b16baf))
+  (fp_poly
+    (pts
+      (xy 2.38 0.825)
+      (xy 2.8 0.825)
+      (xy 2.8 -0.8)
+      (xy 2.38 -0.8)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 36221667-398a-41db-ba51-42b5af3bc8e7))
+  (pad "A" smd rect (at 2 0) (size 2 2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.1524) (thermal_bridge_angle 0) (tstamp 0c5e0fb6-3bbd-42c2-9791-3ff3bee45391))
+  (pad "C" smd rect (at -2 0) (size 2 2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.1524) (thermal_bridge_angle 0) (tstamp 3b03ecfe-9e72-4657-a47f-b40b8e1f231d))
+)

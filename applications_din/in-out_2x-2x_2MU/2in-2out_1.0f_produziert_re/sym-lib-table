@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "2in-2out_1.0f_produziert_re-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/2in-2out_1.0f_produziert_re-eagle-import.kicad_sym")(options "")(descr ""))
+)

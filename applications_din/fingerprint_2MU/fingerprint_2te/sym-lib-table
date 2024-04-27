@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "fingerprint_2te-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/fingerprint_2te-eagle-import.kicad_sym")(options "")(descr ""))
+)

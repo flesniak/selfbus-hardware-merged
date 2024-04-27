@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "fingerprint_2te")(type "KiCad")(uri "$(KIPRJMOD)/fingerprint_2te.pretty")(options "")(descr ""))
+)

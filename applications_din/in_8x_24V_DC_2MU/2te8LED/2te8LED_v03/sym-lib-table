@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "2te8LED_v03-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/2te8LED_v03-eagle-import.kicad_sym")(options "")(descr ""))
+)
