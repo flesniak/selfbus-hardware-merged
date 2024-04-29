@@ -1117,6 +1117,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 62.23) (xy 53.34 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06148f88-9219-450a-8ece-8c7916610d4e")
+	)
+	(wire
+		(pts
 			(xy 93.98 46.99) (xy 93.98 49.53)
 		)
 		(stroke
@@ -1147,7 +1157,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 62.23) (xy 57.15 62.23)
+			(xy 39.37 62.23) (xy 53.34 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1287,16 +1297,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 54.61) (xy 53.34 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e140c15-2d9b-4ba8-8589-3b5ba5e69c5c")
-	)
-	(wire
-		(pts
 			(xy 60.96 54.61) (xy 64.77 54.61)
 		)
 		(stroke
@@ -1307,7 +1307,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 62.23) (xy 57.15 81.28)
+			(xy 57.15 54.61) (xy 57.15 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1367,7 +1367,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 54.61) (xy 53.34 54.61)
+			(xy 39.37 54.61) (xy 57.15 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1427,7 +1427,7 @@
 		(fields_autoplaced yes)
 		(uuid "0c81d882-06c1-4fa6-8249-f8f267b905a3")
 		(property "Reference" "SW1"
-			(at 68.453 58.4778 90)
+			(at 68.58 58.4199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1436,7 +1436,7 @@
 			)
 		)
 		(property "Value" "SW_PROG"
-			(at 68.453 60.9021 90)
+			(at 68.58 60.9599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1497,7 +1497,7 @@
 		(fields_autoplaced yes)
 		(uuid "188c9298-4e80-479e-bce9-914731b790a4")
 		(property "Reference" "R1"
-			(at 66.548 34.3478 0)
+			(at 67.31 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1506,7 +1506,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 66.548 36.7721 0)
+			(at 67.31 36.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1567,7 +1567,7 @@
 		(fields_autoplaced yes)
 		(uuid "1a55633f-ccc0-40dd-8471-ca0e48ca4695")
 		(property "Reference" "J2"
-			(at 34.925 45.3093 0)
+			(at 34.925 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1575,7 +1575,7 @@
 			)
 		)
 		(property "Value" "Conn_01x08_Pin"
-			(at 34.925 47.7336 0)
+			(at 34.925 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1662,7 +1662,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 93.98 67.945 90)
+			(at 91.44 66.0399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1729,11 +1729,12 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 64.77 27.6169 0)
+			(at 67.31 30.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -1795,7 +1796,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 80.01 28.575 90)
+			(at 82.55 30.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1853,7 +1854,7 @@
 		(fields_autoplaced yes)
 		(uuid "4b5a4f91-69b2-4f0e-b506-d3dfadb585d8")
 		(property "Reference" "D5"
-			(at 67.6275 83.8665 0)
+			(at 67.6275 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1861,7 +1862,7 @@
 			)
 		)
 		(property "Value" "LED_IN2"
-			(at 67.6275 86.2908 0)
+			(at 67.6275 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1921,7 +1922,7 @@
 		(fields_autoplaced yes)
 		(uuid "51006838-60a9-48b6-9b98-097b003b16bd")
 		(property "Reference" "R6"
-			(at 47.7521 83.8778 0)
+			(at 46.99 83.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1930,7 +1931,7 @@
 			)
 		)
 		(property "Value" "470"
-			(at 47.7521 86.3021 0)
+			(at 46.99 86.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1991,7 +1992,7 @@
 		(fields_autoplaced yes)
 		(uuid "5682863a-5d1e-43f2-bd92-47ccc19bd99a")
 		(property "Reference" "D3"
-			(at 96.901 43.5553 90)
+			(at 97.79 43.4974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2000,7 +2001,7 @@
 			)
 		)
 		(property "Value" "LED_OUTB"
-			(at 96.901 45.9796 90)
+			(at 97.79 46.0374 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2061,7 +2062,7 @@
 		(fields_autoplaced yes)
 		(uuid "67c1b426-6703-4faa-b9a3-11a30508c176")
 		(property "Reference" "R2"
-			(at 81.788 34.3478 0)
+			(at 82.55 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2070,7 +2071,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 81.788 36.7721 0)
+			(at 82.55 36.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2131,7 +2132,7 @@
 		(fields_autoplaced yes)
 		(uuid "68eba8ec-dce5-4fb2-91e0-d6a236436e97")
 		(property "Reference" "D4"
-			(at 64.4525 97.8591 0)
+			(at 64.4525 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2139,7 +2140,7 @@
 			)
 		)
 		(property "Value" "LED_IN1"
-			(at 64.4525 100.2834 0)
+			(at 64.4525 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2208,7 +2209,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 42.545 59.69 90)
+			(at 43.18 59.6899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2266,7 +2267,7 @@
 		(fields_autoplaced yes)
 		(uuid "6f8f2863-a084-4aff-8777-d10bb22170a3")
 		(property "Reference" "D7"
-			(at 75.8825 97.8591 0)
+			(at 75.8825 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2274,7 +2275,7 @@
 			)
 		)
 		(property "Value" "LED_IN4"
-			(at 75.8825 100.2834 0)
+			(at 75.8825 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2334,7 +2335,7 @@
 		(fields_autoplaced yes)
 		(uuid "741aeb89-840c-4a8e-a2a9-dfb980f65792")
 		(property "Reference" "D1"
-			(at 67.691 43.5553 90)
+			(at 68.58 43.4974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2343,7 +2344,7 @@
 			)
 		)
 		(property "Value" "LED_PROG"
-			(at 67.691 45.9796 90)
+			(at 68.58 46.0374 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2404,7 +2405,7 @@
 		(fields_autoplaced yes)
 		(uuid "85a52d8f-6d66-49fa-aaa2-84091e8eaee8")
 		(property "Reference" "R3"
-			(at 95.758 34.3478 0)
+			(at 96.52 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2413,7 +2414,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 95.758 36.7721 0)
+			(at 96.52 36.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2483,7 +2484,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 64.77 68.9031 0)
+			(at 64.77 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2549,7 +2550,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 42.545 64.77 90)
+			(at 43.18 64.7699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2616,7 +2617,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 80.01 67.945 90)
+			(at 77.47 66.0399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2675,7 +2676,7 @@
 		(fields_autoplaced yes)
 		(uuid "a1b241ee-146c-47f2-9c17-6ed879249c1e")
 		(property "Reference" "SW3"
-			(at 97.663 58.4778 90)
+			(at 97.79 58.4199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2684,7 +2685,7 @@
 			)
 		)
 		(property "Value" "SW_OUTB"
-			(at 97.663 60.9021 90)
+			(at 97.79 60.9599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2745,7 +2746,7 @@
 		(fields_autoplaced yes)
 		(uuid "a7b98acc-3677-48f2-97d5-fe55971a72ce")
 		(property "Reference" "R5"
-			(at 58.928 83.8778 0)
+			(at 59.69 83.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2754,7 +2755,7 @@
 			)
 		)
 		(property "Value" "470"
-			(at 58.928 86.3021 0)
+			(at 59.69 86.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2815,7 +2816,7 @@
 		(fields_autoplaced yes)
 		(uuid "ab158283-00df-4ca6-ae41-8a265cd17220")
 		(property "Reference" "D2"
-			(at 82.931 43.5553 90)
+			(at 83.82 43.4974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2824,7 +2825,7 @@
 			)
 		)
 		(property "Value" "LED_OUTA"
-			(at 82.931 45.9796 90)
+			(at 83.82 46.0374 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2886,7 +2887,7 @@
 		(fields_autoplaced yes)
 		(uuid "e47bbdb0-d91b-4a40-bbf9-e53dc53b7d4d")
 		(property "Reference" "SW2"
-			(at 83.693 58.4778 90)
+			(at 83.82 58.4199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2895,7 +2896,7 @@
 			)
 		)
 		(property "Value" "SW_OUTA"
-			(at 83.693 60.9021 90)
+			(at 83.82 60.9599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2956,7 +2957,7 @@
 		(fields_autoplaced yes)
 		(uuid "e5a7a51e-8e92-4d05-a388-8b83cc0396bd")
 		(property "Reference" "D6"
-			(at 79.0575 83.8665 0)
+			(at 79.0575 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2964,7 +2965,7 @@
 			)
 		)
 		(property "Value" "LED_IN3"
-			(at 79.0575 86.2908 0)
+			(at 79.0575 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3033,7 +3034,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 93.98 28.575 90)
+			(at 96.52 30.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3091,7 +3092,7 @@
 		(fields_autoplaced yes)
 		(uuid "f9966e88-5fd6-422b-b7a6-8898bb381f76")
 		(property "Reference" "R4"
-			(at 55.118 94.0378 0)
+			(at 55.88 93.9799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3100,7 +3101,7 @@
 			)
 		)
 		(property "Value" "470"
-			(at 55.118 96.4621 0)
+			(at 55.88 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)

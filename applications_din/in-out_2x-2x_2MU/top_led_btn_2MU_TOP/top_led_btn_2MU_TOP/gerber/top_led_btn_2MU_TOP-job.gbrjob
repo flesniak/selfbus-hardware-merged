@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "8.0.1"
     },
-    "CreationDate": "2024-04-28T14:47:00+02:00"
+    "CreationDate": "2024-04-28T14:25:20+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "2in-2out_2.0",
-      "GUID": "32696e2d-326f-4757-945f-322e302e6b69",
+      "Name": "top_led_btn_2MU_TOP",
+      "GUID": "746f705f-6c65-4645-9f62-746e5f324d55",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 57.8108,
-      "Y": 13.3013
+      "X": 32.05,
+      "Y": 42.05
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -24,57 +24,57 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.15,
-      "PadToTrack": 0.15,
-      "TrackToTrack": 0.15,
-      "MinLineWidth": 0.3,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
+      "TrackToTrack": 0.2,
+      "MinLineWidth": 0.4,
       "TrackToRegion": 0.5,
       "RegionToRegion": 0.5
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "2in-2out_2.0-F_Cu.gbr",
+      "Path": "top_led_btn_2MU_TOP-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "2in-2out_2.0-B_Cu.gbr",
+      "Path": "top_led_btn_2MU_TOP-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "2in-2out_2.0-F_Paste.gbr",
+      "Path": "top_led_btn_2MU_TOP-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "2in-2out_2.0-B_Paste.gbr",
+      "Path": "top_led_btn_2MU_TOP-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "2in-2out_2.0-F_Silkscreen.gbr",
+      "Path": "top_led_btn_2MU_TOP-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "2in-2out_2.0-B_Silkscreen.gbr",
+      "Path": "top_led_btn_2MU_TOP-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "2in-2out_2.0-F_Mask.gbr",
+      "Path": "top_led_btn_2MU_TOP-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "2in-2out_2.0-B_Mask.gbr",
+      "Path": "top_led_btn_2MU_TOP-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "2in-2out_2.0-Edge_Cuts.gbr",
+      "Path": "top_led_btn_2MU_TOP-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
