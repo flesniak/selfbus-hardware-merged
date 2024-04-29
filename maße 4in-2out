@@ -1,0 +1,12 @@
+20,85mm pin 1 zum unteren MID platinenrand
+-> pin 1 nach unten von TOP platine orientiert
+höhe MID 57.5mm
+höhe TOP 42mm
+delta 15.5mm = 2x 7,75mm
+
+-> pin 1 auf TOP 13,1mm von unterem platinenrand
+
+4,4mm pin 1 zum linken MID platinenrand
+breite MID 32mm
+breite TOP 32mm
+-> pin 1 auf TOP 4,4mm zum rechten platinenrand
