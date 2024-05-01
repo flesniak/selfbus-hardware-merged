@@ -134,7 +134,7 @@
 	(net 52 "Net-(K7B-PA)")
 	(net 53 "Net-(K7B-PB)")
 	(net 54 "Net-(K8B-PA)")
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+	(footprint "out_8x_16A_bistab:HFE20-3-504"
 		(layer "F.Cu")
 		(uuid "0190d5b6-c6d8-4ab1-a232-be7c2b6b2040")
 		(at 160.0686 104.1066)
@@ -162,7 +162,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -200,7 +200,7 @@
 		)
 		(path "/f1a9eee3-dbca-4d3d-9260-846f051741a2")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start -14.8 -6.25)
 			(end 14 -6.25)
@@ -307,7 +307,7 @@
 			(uuid "b4ad5ae9-f07a-4069-8c07-30768fe1460f")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:E3,5-8"
+	(footprint "out_8x_16A_bistab:E3,5-8"
 		(layer "F.Cu")
 		(uuid "01f279d7-c1e7-4266-8860-af15fa76908e")
 		(at 118.0986 133.5786 -90)
@@ -336,7 +336,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:E3,5-8"
+		(property "Footprint" "out_8x_16A_bistab:E3,5-8"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -374,7 +374,7 @@
 		)
 		(path "/806d9267-cb00-4cbb-91a9-e0d0e43315f3")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start -3.048 -0.762)
 			(end -3.048 -1.524)
@@ -518,7 +518,7 @@
 			(uuid "c6ad3ed2-1b9a-47d3-8d75-ad1ab5b702cc")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+	(footprint "out_8x_16A_bistab:W237-132"
 		(layer "F.Cu")
 		(uuid "08acb8ea-87fb-4faf-a590-f535cc0e4b15")
 		(at 110.9726 87.376 -90)
@@ -547,7 +547,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -585,7 +585,7 @@
 		)
 		(path "/c2532782-c103-4e60-a08e-250bea64600c")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start 5.08 4.826)
 			(end -5.08 4.826)
@@ -841,7 +841,7 @@
 			(uuid "1f10e363-772b-4c8f-963c-31502feb1c10")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+	(footprint "out_8x_16A_bistab:W237-132"
 		(layer "F.Cu")
 		(uuid "120c2b85-155c-4075-a282-2eca94b26a8f")
 		(at 186.0296 115.3541 90)
@@ -870,7 +870,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -908,7 +908,7 @@
 		)
 		(path "/8a5bc2da-5773-465c-aabb-2f03666c26c6")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start -5.08 -4.445)
 			(end 5.08 -4.445)
@@ -1164,7 +1164,7 @@
 			(uuid "275659bd-2433-4c4f-b793-97147bcbad90")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:M1206"
+	(footprint "out_8x_16A_bistab:M1206"
 		(layer "F.Cu")
 		(uuid "2235b7f7-a5aa-4b98-bc42-f618172b48ef")
 		(at 140.1826 125.7046)
@@ -1193,7 +1193,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:M1206"
+		(property "Footprint" "out_8x_16A_bistab:M1206"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1231,7 +1231,7 @@
 		)
 		(path "/efd7b376-bed2-49fa-b39a-666c7b83cd31")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_poly
 			(pts
 				(xy -0.3 0.8001) (xy 0.3 0.8001) (xy 0.3 -0.8001) (xy -0.3 -0.8001)
@@ -1351,7 +1351,7 @@
 			(uuid "d6787047-6e98-4306-9647-116ad2b1b56d")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+	(footprint "out_8x_16A_bistab:HFE20-3-504"
 		(layer "F.Cu")
 		(uuid "4684023a-b1b4-46e3-afcc-a93019bf553e")
 		(at 137.0076 91.0891 180)
@@ -1379,7 +1379,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1417,7 +1417,7 @@
 		)
 		(path "/e299d692-9049-42af-9b4a-1d60e6b99cfa")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start 14 6.25)
 			(end -14.8 6.25)
@@ -1524,7 +1524,7 @@
 			(uuid "9d52801e-5da0-4e42-bfef-0e0d2378e937")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:M1206"
+	(footprint "out_8x_16A_bistab:M1206"
 		(layer "F.Cu")
 		(uuid "4f470bab-4834-4f50-b65d-717b7e3641ca")
 		(at 150.8506 125.7046)
@@ -1553,7 +1553,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:M1206"
+		(property "Footprint" "out_8x_16A_bistab:M1206"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1591,7 +1591,7 @@
 		)
 		(path "/00d82da8-8cd5-4257-888d-e94f67126c36")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_poly
 			(pts
 				(xy -0.3 0.8001) (xy 0.3 0.8001) (xy 0.3 -0.8001) (xy -0.3 -0.8001)
@@ -1711,7 +1711,7 @@
 			(uuid "e04cc5c4-f163-4553-bd85-0a441878834d")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+	(footprint "out_8x_16A_bistab:W237-132"
 		(layer "F.Cu")
 		(uuid "525668b1-2058-4baf-a316-274c0ce13f3a")
 		(at 186.0296 89.9541 90)
@@ -1740,7 +1740,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1778,7 +1778,7 @@
 		)
 		(path "/91f1a607-321e-42e3-ab09-84507929ca3c")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start -5.08 -4.445)
 			(end 5.08 -4.445)
@@ -2034,7 +2034,7 @@
 			(uuid "43c5e167-4783-4d79-ae9f-2d802f0f1a90")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+	(footprint "out_8x_16A_bistab:HFE20-3-504"
 		(layer "F.Cu")
 		(uuid "5aa18580-bda1-46b3-ba56-715eef83ce57")
 		(at 129.8286 117.1241 180)
@@ -2062,7 +2062,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2100,7 +2100,7 @@
 		)
 		(path "/f10cb07d-2023-49fd-a9e1-79ce31477a44")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start 14 6.25)
 			(end -14.8 6.25)
@@ -2207,7 +2207,7 @@
 			(uuid "97441109-4dae-484e-9a76-9367cc8afdfe")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+	(footprint "out_8x_16A_bistab:W237-132"
 		(layer "F.Cu")
 		(uuid "5e90a6d5-ac42-4856-bef5-cdde71933188")
 		(at 110.9726 107.7341 -90)
@@ -2236,7 +2236,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2274,7 +2274,7 @@
 		)
 		(path "/91d3c0ee-fd56-47ed-ba71-bb23a3fea47d")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start 5.08 4.826)
 			(end -5.08 4.826)
@@ -2530,7 +2530,7 @@
 			(uuid "c2bd7eda-b616-4611-84ce-102fcb5692b7")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+	(footprint "out_8x_16A_bistab:HFE20-3-504"
 		(layer "F.Cu")
 		(uuid "5f2c284d-4d85-4f2c-afc1-28bd63f6b426")
 		(at 167.1701 117.1241)
@@ -2558,7 +2558,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2596,7 +2596,7 @@
 		)
 		(path "/9e44ca59-efde-4b0d-a07d-3b45993324eb")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start -14.8 -6.25)
 			(end 14 -6.25)
@@ -2703,7 +2703,7 @@
 			(uuid "1d91f2ae-caae-4d11-ba32-6febb4e04f18")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+	(footprint "out_8x_16A_bistab:W237-132"
 		(layer "F.Cu")
 		(uuid "61250d86-edef-4eb1-8876-f7de1ba79daa")
 		(at 186.0296 79.7941 90)
@@ -2732,7 +2732,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2770,7 +2770,7 @@
 		)
 		(path "/d8d10e79-8735-4c75-b37d-eaac1744acd3")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start -5.08 -4.445)
 			(end 5.08 -4.445)
@@ -3092,7 +3092,7 @@
 		)
 		(path "/e62abff7-b130-4591-ba12-76b1098eb90b")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files)
 		(fp_line
@@ -3194,7 +3194,7 @@
 			(uuid "b4940323-47c4-42ba-b6a8-53de088a622e")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-102"
+	(footprint "out_8x_16A_bistab:W237-102"
 		(layer "F.Cu")
 		(uuid "737815d8-cd05-47f2-bf93-5d85d7e52ff7")
 		(at 185.3946 130.2766 90)
@@ -3223,7 +3223,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-102"
+		(property "Footprint" "out_8x_16A_bistab:W237-102"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3261,7 +3261,7 @@
 		)
 		(path "/62f6aac4-c209-4ca5-84a7-b1f0851daea2")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start 4.993 -3.734)
 			(end -4.989 -3.734)
@@ -3517,7 +3517,7 @@
 			(uuid "017ae0df-3f2a-471e-a089-9ec5585a1b35")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HUT4C-NO-DRILL"
+	(footprint "out_8x_16A_bistab:HUT4C-NO-DRILL"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "7f653aa1-0801-4268-b390-5f42fbab2802")
@@ -4084,7 +4084,7 @@
 			(uuid "1d1dd0e6-578a-4437-914d-ab0fa91c364a")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:SMB"
+	(footprint "out_8x_16A_bistab:SMB"
 		(layer "F.Cu")
 		(uuid "83d50b6b-460b-4d72-bb6c-b8e32370735c")
 		(at 179.0446 133.3246 -90)
@@ -4114,7 +4114,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:SMB"
+		(property "Footprint" "out_8x_16A_bistab:SMB"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4152,7 +4152,7 @@
 		)
 		(path "/f99a2476-13a1-431d-ac4e-cc96b73b3f3d")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start -2.2352 1.9812)
 			(end -2.2352 1.5494)
@@ -4391,7 +4391,7 @@
 			(uuid "16237123-23b1-4e0e-b8a8-90ec70a34274")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+	(footprint "out_8x_16A_bistab:W237-132"
 		(layer "F.Cu")
 		(uuid "8954c6b6-9c13-405e-a3d4-de4671cbe7d3")
 		(at 110.9726 77.2541 -90)
@@ -4420,7 +4420,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4458,7 +4458,7 @@
 		)
 		(path "/c63b10e2-51d7-46d8-9b6f-78b963529591")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start 5.08 4.826)
 			(end -5.08 4.826)
@@ -4714,7 +4714,7 @@
 			(uuid "3bb98604-7f55-4567-8e11-8ab6a6dddafa")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+	(footprint "out_8x_16A_bistab:HFE20-3-504"
 		(layer "F.Cu")
 		(uuid "8c3c8c18-c0dc-4869-a16a-c0bf4a579e0c")
 		(at 129.8286 104.1066 180)
@@ -4742,7 +4742,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4780,7 +4780,7 @@
 		)
 		(path "/f4c4140a-afb4-4e9d-85f3-1c6dc7c9e23e")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start 14 6.25)
 			(end -14.8 6.25)
@@ -4887,7 +4887,7 @@
 			(uuid "a7e32acd-0a06-4dd0-a6c8-409de6fe32e9")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+	(footprint "out_8x_16A_bistab:W237-132"
 		(layer "F.Cu")
 		(uuid "90c5dfb2-bced-4e35-9a61-6fd986dafbbc")
 		(at 111.125 117.856 -90)
@@ -4916,7 +4916,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4954,7 +4954,7 @@
 		)
 		(path "/fb2aab5f-fc03-4ed3-88dd-92e3f3327637")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start 5.08 4.826)
 			(end -5.08 4.826)
@@ -5210,7 +5210,7 @@
 			(uuid "e0fd6964-482b-42b3-80a7-42b3379d034e")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+	(footprint "out_8x_16A_bistab:HFE20-3-504"
 		(layer "F.Cu")
 		(uuid "91acebbd-da7a-4eba-bc67-c360b8fd9dcd")
 		(at 129.8286 78.0716 180)
@@ -5238,7 +5238,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5276,7 +5276,7 @@
 		)
 		(path "/d802001b-fe6d-4d1c-b9d9-48c2f4454ae1")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start 14 6.25)
 			(end -14.8 6.25)
@@ -5383,7 +5383,7 @@
 			(uuid "9811790d-d2cf-4e05-8677-280ae5b12f0f")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:M1206"
+	(footprint "out_8x_16A_bistab:M1206"
 		(layer "F.Cu")
 		(uuid "a53ac752-f1fd-4c34-a956-9c434055ffa0")
 		(at 145.2626 125.7046)
@@ -5412,7 +5412,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:M1206"
+		(property "Footprint" "out_8x_16A_bistab:M1206"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5450,7 +5450,7 @@
 		)
 		(path "/7bdbf454-d192-4300-abcf-e4b3a90e395d")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_poly
 			(pts
 				(xy -0.3 0.8001) (xy 0.3 0.8001) (xy 0.3 -0.8001) (xy -0.3 -0.8001)
@@ -5570,7 +5570,7 @@
 			(uuid "ca8a59aa-7f61-4518-a723-61cfe7d0fcee")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+	(footprint "out_8x_16A_bistab:W237-132"
 		(layer "F.Cu")
 		(uuid "aba83260-4ff3-4331-834c-9d11bcc10e82")
 		(at 186.0296 105.1941 90)
@@ -5599,7 +5599,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5637,7 +5637,7 @@
 		)
 		(path "/a62dbc9e-b1f8-4d1e-a185-a06d9ea6b13d")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start -5.08 -4.445)
 			(end 5.08 -4.445)
@@ -5893,7 +5893,7 @@
 			(uuid "a96e588a-ca28-4df3-892c-1ad04b267c11")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+	(footprint "out_8x_16A_bistab:HFE20-3-504"
 		(layer "F.Cu")
 		(uuid "b77de5c3-fac1-4225-a485-0c74d69fa342")
 		(at 167.1701 78.0716)
@@ -5921,7 +5921,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5959,7 +5959,7 @@
 		)
 		(path "/d98863ab-abda-47eb-8a71-2a3078cbfe14")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start -14.8 -6.25)
 			(end 14 -6.25)
@@ -6066,7 +6066,7 @@
 			(uuid "97e5a6c2-cd0b-4a3b-b93c-1b3ca0cfc2d1")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:2X13SMD"
+	(footprint "out_8x_16A_bistab:2X13SMD"
 		(layer "F.Cu")
 		(uuid "bab41571-75b9-4631-bbe7-79cf0999df76")
 		(at 160.8836 133.5786 180)
@@ -6096,7 +6096,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:2X13SMD"
+		(property "Footprint" "out_8x_16A_bistab:2X13SMD"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6134,7 +6134,7 @@
 		)
 		(path "/fa5b18c1-c219-47ae-a9e5-0a80066668a9")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start 30.48 3.175)
 			(end 29.845 3.81)
@@ -8444,7 +8444,7 @@
 			(uuid "deab1454-31df-4a3a-814b-db4f355f0cab")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+	(footprint "out_8x_16A_bistab:HFE20-3-504"
 		(layer "F.Cu")
 		(uuid "d048392e-049e-4f4a-a61f-04b7d372b125")
 		(at 167.1701 91.0891)
@@ -8472,7 +8472,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8510,7 +8510,7 @@
 		)
 		(path "/a6e7d405-65d8-40ce-8a47-56ad148b3e98")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start -14.8 -6.25)
 			(end 14 -6.25)
@@ -8617,7 +8617,7 @@
 			(uuid "55791e41-2b81-47a1-896e-553b0b28a02e")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:E3,5-8"
+	(footprint "out_8x_16A_bistab:E3,5-8"
 		(layer "F.Cu")
 		(uuid "e1d1394b-42bd-438a-a408-05548780dce3")
 		(at 172.1866 133.5786 -90)
@@ -8646,7 +8646,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:E3,5-8"
+		(property "Footprint" "out_8x_16A_bistab:E3,5-8"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8684,7 +8684,7 @@
 		)
 		(path "/66476127-513e-4d07-b6ca-d8ec5c83b39d")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start -3.048 -0.762)
 			(end -3.048 -1.524)
@@ -8828,7 +8828,7 @@
 			(uuid "7977f6eb-a504-4a7c-afc4-ba19ff47b310")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:C1206"
+	(footprint "out_8x_16A_bistab:C1206"
 		(layer "B.Cu")
 		(uuid "320a2c99-368f-479e-a362-f370d525a78c")
 		(at 145.5216 128.1736 -90)
@@ -8857,7 +8857,7 @@
 				(justify left bottom mirror)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:C1206"
+		(property "Footprint" "out_8x_16A_bistab:C1206"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8895,7 +8895,7 @@
 		)
 		(path "/f29edf95-5fdd-4980-832f-fcabb07d3a49")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_poly
 			(pts
 				(xy -0.1999 -0.4001) (xy 0.1999 -0.4001) (xy 0.1999 0.4001) (xy -0.1999 0.4001)
@@ -9015,7 +9015,7 @@
 			(uuid "44f3b089-e0de-40b1-bc6f-6e577247dbaa")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:SO18W"
+	(footprint "out_8x_16A_bistab:SO18W"
 		(layer "B.Cu")
 		(uuid "6ef1d205-7c95-453a-8c07-f19e4cbf2593")
 		(at 135.6106 130.7846 180)
@@ -9044,7 +9044,7 @@
 				(justify left bottom mirror)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:SO18W"
+		(property "Footprint" "out_8x_16A_bistab:SO18W"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9082,7 +9082,7 @@
 		)
 		(path "/d85234a9-6215-42ac-9b97-fc2ac85b8a5e")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start 5.8674 -3.3528)
 			(end 5.8674 3.3528)
@@ -9819,7 +9819,7 @@
 			(uuid "fee3fd85-56a6-4d18-b04a-b75d79b6a3a5")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:SO18W"
+	(footprint "out_8x_16A_bistab:SO18W"
 		(layer "B.Cu")
 		(uuid "71bee8cc-20c1-475c-b801-689a961b86ff")
 		(at 153.2636 128.1811 180)
@@ -9848,7 +9848,7 @@
 				(justify left bottom mirror)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:SO18W"
+		(property "Footprint" "out_8x_16A_bistab:SO18W"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9886,7 +9886,7 @@
 		)
 		(path "/4e98d687-d8ec-43f7-8f89-48a83f0c46d4")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_line
 			(start 5.8674 -3.3528)
 			(end 5.8674 3.3528)
@@ -10623,7 +10623,7 @@
 			(uuid "de60d4cc-0993-4005-a988-b21f79e5eaf1")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:M1206"
+	(footprint "out_8x_16A_bistab:M1206"
 		(layer "B.Cu")
 		(uuid "8b8c0058-17c0-4234-af31-b015d0c3712c")
 		(at 125.4506 131.5466 90)
@@ -10652,7 +10652,7 @@
 				(justify left bottom mirror)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:M1206"
+		(property "Footprint" "out_8x_16A_bistab:M1206"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10690,7 +10690,7 @@
 		)
 		(path "/1e4965ab-a7d6-43b6-a9c2-f8afec51b171")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_poly
 			(pts
 				(xy -0.3 -0.8001) (xy 0.3 -0.8001) (xy 0.3 0.8001) (xy -0.3 0.8001)
@@ -10810,7 +10810,7 @@
 			(uuid "3f5250b8-455d-44d0-a150-41030fb40672")
 		)
 	)
-	(footprint "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:C1206"
+	(footprint "out_8x_16A_bistab:C1206"
 		(layer "B.Cu")
 		(uuid "ad56c242-04ed-446f-9afb-0facde244cda")
 		(at 128.4986 131.5466 -90)
@@ -10839,7 +10839,7 @@
 				(justify left bottom mirror)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:C1206"
+		(property "Footprint" "out_8x_16A_bistab:C1206"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10877,7 +10877,7 @@
 		)
 		(path "/784bc83f-9a5d-4f6c-a24e-3c2f256cb81a")
 		(sheetname "Stammblatt")
-		(sheetfile "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_sch")
+		(sheetfile "out_8x_16A_bistab.kicad_sch")
 		(fp_poly
 			(pts
 				(xy -0.1999 -0.4001) (xy 0.1999 -0.4001) (xy 0.1999 0.4001) (xy -0.1999 0.4001)

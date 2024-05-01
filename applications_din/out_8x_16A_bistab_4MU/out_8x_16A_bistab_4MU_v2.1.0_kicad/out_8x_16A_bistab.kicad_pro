@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "app_out_8x_16A_bistab_4MU_BOT_v2.0.0.kicad_pro",
+    "filename": "out_8x_16A_bistab.kicad_pro",
     "version": 1
   },
   "net_settings": {
