@@ -1,0 +1,100 @@
+(footprint "SOT223" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "<b>SOT-223</b>")
+  (fp_text reference "REF**" (at -2.54 -0.0508) (layer "F.SilkS")
+      (effects (font (size 1.1684 1.1684) (thickness 0.1016)) (justify left bottom))
+    (tstamp a4a38fa3-3ba8-4e5d-b2e6-35f3d0da2584)
+  )
+  (fp_text value "SOT223" (at -2.54 1.3208) (layer "F.Fab")
+      (effects (font (size 1.1684 1.1684) (thickness 0.1016)) (justify left bottom))
+    (tstamp 91cce58b-edef-4b2b-9881-be7481431e90)
+  )
+  (fp_line (start -3.2766 -1.778) (end 3.2766 -1.778)
+    (stroke (width 0.2032) (type solid)) (layer "F.SilkS") (tstamp abbf82dc-6963-4cb6-934d-274d7b7188fc))
+  (fp_line (start -3.2766 1.778) (end -3.2766 -1.778)
+    (stroke (width 0.2032) (type solid)) (layer "F.SilkS") (tstamp a0c9e72b-1b89-4c4a-ad02-4360223f73a2))
+  (fp_line (start 3.2766 -1.778) (end 3.2766 1.778)
+    (stroke (width 0.2032) (type solid)) (layer "F.SilkS") (tstamp 315281ed-79bd-47be-ae93-f7a8f775138e))
+  (fp_line (start 3.2766 1.778) (end -3.2766 1.778)
+    (stroke (width 0.2032) (type solid)) (layer "F.SilkS") (tstamp d8c2f90b-fbab-4fc8-a770-da3b27a00d8f))
+  (fp_poly
+    (pts
+      (xy -2.7432 3.6576)
+      (xy -1.8796 3.6576)
+      (xy -1.8796 1.8034)
+      (xy -2.7432 1.8034)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 1e91f129-6f91-4eea-a3ca-d3414a8dc0c0))
+  (fp_poly
+    (pts
+      (xy -2.7432 3.6576)
+      (xy -1.8796 3.6576)
+      (xy -1.8796 1.8034)
+      (xy -2.7432 1.8034)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp ecd0844f-55c6-45d1-a2e4-70e121d9e292))
+  (fp_poly
+    (pts
+      (xy -1.6002 -1.8034)
+      (xy 1.6002 -1.8034)
+      (xy 1.6002 -3.6576)
+      (xy -1.6002 -3.6576)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 222289eb-2743-4920-ae22-41e9eeae2a4c))
+  (fp_poly
+    (pts
+      (xy -1.6002 -1.8034)
+      (xy 1.6002 -1.8034)
+      (xy 1.6002 -3.6576)
+      (xy -1.6002 -3.6576)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp ffabe075-0d67-44eb-98b1-a727d7a68d48))
+  (fp_poly
+    (pts
+      (xy -0.4318 3.6576)
+      (xy 0.4318 3.6576)
+      (xy 0.4318 1.8034)
+      (xy -0.4318 1.8034)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 00fd0c53-ba39-42f5-b9e9-b38577d56c0e))
+  (fp_poly
+    (pts
+      (xy -0.4318 3.6576)
+      (xy 0.4318 3.6576)
+      (xy 0.4318 1.8034)
+      (xy -0.4318 1.8034)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 2757d998-c7e5-48ec-ae2a-e5e65bf30565))
+  (fp_poly
+    (pts
+      (xy 1.8796 3.6576)
+      (xy 2.7432 3.6576)
+      (xy 2.7432 1.8034)
+      (xy 1.8796 1.8034)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 24eb25e8-b76a-467c-8161-a72df2c2c5ed))
+  (fp_poly
+    (pts
+      (xy 1.8796 3.6576)
+      (xy 2.7432 3.6576)
+      (xy 2.7432 1.8034)
+      (xy 1.8796 1.8034)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp adaa603d-5fba-44ad-baaf-8c0812effaf6))
+  (pad "1" smd rect (at -2.3114 3.0988) (size 1.2192 2.2352) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.1016) (solder_paste_margin -0.1016) (thermal_bridge_angle 0) (tstamp a40d250d-eda7-4c06-b256-6e05f1328437))
+  (pad "2" smd rect (at 0 3.0988) (size 1.2192 2.2352) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.1016) (solder_paste_margin -0.1016) (thermal_bridge_angle 0) (tstamp 5cf0c5b1-bfc0-4187-b477-009de4d3bf9a))
+  (pad "3" smd rect (at 2.3114 3.0988) (size 1.2192 2.2352) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.1016) (solder_paste_margin -0.1016) (thermal_bridge_angle 0) (tstamp c3d3fbf0-0e72-441f-983c-4dd37be856d6))
+  (pad "4" smd rect (at 0 -3.099) (size 3.6 2.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.1016) (solder_paste_margin -0.1016) (thermal_bridge_angle 0) (tstamp e1845cde-4790-4cc7-ad3b-15b16fc54dd3))
+)

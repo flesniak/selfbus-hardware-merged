@@ -1,0 +1,51 @@
+(footprint "SOD123" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "<b>Diode</b>")
+  (fp_text reference "REF**" (at -1.1 -1) (layer "F.SilkS")
+      (effects (font (size 1.1684 1.1684) (thickness 0.1016)) (justify left bottom))
+    (tstamp 39823e02-c58c-490d-ad92-688a0d8c16ec)
+  )
+  (fp_text value "SOD123" (at -1.1 2.3) (layer "F.Fab")
+      (effects (font (size 1.1684 1.1684) (thickness 0.1016)) (justify left bottom))
+    (tstamp bccee41c-f2ec-42b1-96f4-354cfcabc3de)
+  )
+  (fp_line (start -1.1 -0.7) (end 1.1 -0.7)
+    (stroke (width 0.254) (type solid)) (layer "F.Fab") (tstamp d9a4fc3e-717a-4d75-9e87-3bff239c51cf))
+  (fp_line (start -1.1 0.7) (end -1.1 -0.7)
+    (stroke (width 0.254) (type solid)) (layer "F.Fab") (tstamp 6f1a6a5c-50ee-4430-a486-b49a355c3847))
+  (fp_line (start 1.1 -0.7) (end 1.1 0.7)
+    (stroke (width 0.254) (type solid)) (layer "F.Fab") (tstamp 3c59b69c-bf7e-47f0-8cc9-19cbcfd5be1d))
+  (fp_line (start 1.1 0.7) (end -1.1 0.7)
+    (stroke (width 0.254) (type solid)) (layer "F.Fab") (tstamp 39c4afdc-e38f-4db8-ab42-5350adae84c9))
+  (fp_poly
+    (pts
+      (xy -1.95 0.45)
+      (xy -1.2 0.45)
+      (xy -1.2 -0.4)
+      (xy -1.95 -0.4)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 89621f25-8af9-4059-a64f-6a98ddfb3aa7))
+  (fp_poly
+    (pts
+      (xy -1.05 0.65)
+      (xy -0.15 0.65)
+      (xy -0.15 -0.7)
+      (xy -1.05 -0.7)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp f8a67d1e-1c8a-4202-8795-9c04833a935c))
+  (fp_poly
+    (pts
+      (xy 1.2 0.45)
+      (xy 1.95 0.45)
+      (xy 1.95 -0.4)
+      (xy 1.2 -0.4)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 65b0ffec-27ef-4363-8c8e-3972a170b87f))
+  (pad "A" smd rect (at 1.9 0) (size 1.4 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.1016) (solder_paste_margin -0.1016) (thermal_bridge_angle 0) (tstamp 0c3df5ac-90b7-4ae6-be8a-1c81d79bb528))
+  (pad "C" smd rect (at -1.9 0) (size 1.4 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.1016) (solder_paste_margin -0.1016) (thermal_bridge_angle 0) (tstamp c080baf2-f98b-4a15-ab04-5b7b0f3bd9c1))
+)

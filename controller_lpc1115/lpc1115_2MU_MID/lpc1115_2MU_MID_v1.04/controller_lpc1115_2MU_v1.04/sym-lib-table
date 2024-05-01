@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "controller_lpc1115_2MU_v1.04-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/controller_lpc1115_2MU_v1.04-eagle-import.kicad_sym")(options "")(descr ""))
+)
