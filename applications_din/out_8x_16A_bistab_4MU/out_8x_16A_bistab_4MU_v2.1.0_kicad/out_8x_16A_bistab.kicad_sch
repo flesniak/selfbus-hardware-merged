@@ -1478,7 +1478,7 @@
 				)
 			)
 		)
-		(symbol "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:DINA4_L"
+		(symbol "out_8x_16A_bistab-eagle-import:DINA4_L"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1852,7 +1852,7 @@
 				)
 			)
 		)
-		(symbol "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:HFE20-1-024-1HD504"
+		(symbol "out_8x_16A_bistab-eagle-import:HFE20-1-024-1HD504"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1876,7 +1876,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+			(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2419,7 +2419,7 @@
 				)
 			)
 		)
-		(symbol "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:PINHD-2X13_2.54-SMD"
+		(symbol "out_8x_16A_bistab-eagle-import:PINHD-2X13_2.54-SMD"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2441,7 +2441,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:2X13SMD"
+			(property "Footprint" "out_8x_16A_bistab:2X13SMD"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2995,7 +2995,7 @@
 				)
 			)
 		)
-		(symbol "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:W237-02P"
+		(symbol "out_8x_16A_bistab-eagle-import:W237-02P"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3018,7 +3018,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+			(property "Footprint" "out_8x_16A_bistab:W237-132"
 				(at 0 0 0)
 				(effects
 					(font
@@ -7739,7 +7739,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:M1206"
+		(property "Footprint" "out_8x_16A_bistab:M1206"
 			(at 37.338 43.18 90)
 			(effects
 				(font
@@ -7773,7 +7773,7 @@
 			(uuid "3cd828b0-e3e1-431a-abb9-ad743d25b599")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "R2")
 					(unit 1)
@@ -7782,7 +7782,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:W237-02P")
+		(lib_id "out_8x_16A_bistab-eagle-import:W237-02P")
 		(at 264.16 101.6 180)
 		(unit 2)
 		(exclude_from_sim no)
@@ -7809,7 +7809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 264.16 101.6 0)
 			(effects
 				(font
@@ -7843,7 +7843,7 @@
 			(uuid "a627a98b-9f8c-4e24-be40-db5e4fd6b612")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "X3")
 					(unit 2)
@@ -7877,7 +7877,7 @@
 				)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:M1206"
+		(property "Footprint" "out_8x_16A_bistab:M1206"
 			(at 111.76 37.338 90)
 			(effects
 				(font
@@ -7911,7 +7911,7 @@
 			(uuid "8ce9c735-cf73-438f-9bbd-06428d7bcf2c")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "R1")
 					(unit 1)
@@ -7920,7 +7920,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:W237-02P")
+		(lib_id "out_8x_16A_bistab-eagle-import:W237-02P")
 		(at 264.16 53.34 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7947,7 +7947,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 264.16 53.34 0)
 			(effects
 				(font
@@ -7981,7 +7981,7 @@
 			(uuid "a3d5d18e-fe03-4602-af49-9f5eecba1178")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "X2")
 					(unit 1)
@@ -7990,7 +7990,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:HFE20-1-024-1HD504")
+		(lib_id "out_8x_16A_bistab-eagle-import:HFE20-1-024-1HD504")
 		(at 134.62 152.4 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -8018,7 +8018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 134.62 152.4 0)
 			(effects
 				(font
@@ -8061,7 +8061,7 @@
 			(uuid "3eaa2994-cbf8-4e42-a22f-41cde7edc467")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "K5")
 					(unit 2)
@@ -8070,7 +8070,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:HFE20-1-024-1HD504")
+		(lib_id "out_8x_16A_bistab-eagle-import:HFE20-1-024-1HD504")
 		(at 241.3 91.44 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -8098,7 +8098,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 241.3 91.44 0)
 			(effects
 				(font
@@ -8141,7 +8141,7 @@
 			(uuid "a6c33a26-32e0-4ca1-b6a9-d565c4d0271c")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "K4")
 					(unit 2)
@@ -8150,7 +8150,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:HFE20-1-024-1HD504")
+		(lib_id "out_8x_16A_bistab-eagle-import:HFE20-1-024-1HD504")
 		(at 109.22 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8178,7 +8178,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 109.22 109.22 0)
 			(effects
 				(font
@@ -8221,7 +8221,7 @@
 			(uuid "f64ca64c-3ea2-4d7b-a8ca-d2f7bfd48e1e")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "K7")
 					(unit 1)
@@ -8230,7 +8230,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:W237-02P")
+		(lib_id "out_8x_16A_bistab-eagle-import:W237-02P")
 		(at 264.16 71.12 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8257,7 +8257,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 264.16 71.12 0)
 			(effects
 				(font
@@ -8291,7 +8291,7 @@
 			(uuid "31962969-96c8-4bb3-8246-d4365b408632")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "X1")
 					(unit 1)
@@ -8300,7 +8300,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:W237-02P")
+		(lib_id "out_8x_16A_bistab-eagle-import:W237-02P")
 		(at 264.16 81.28 180)
 		(unit 2)
 		(exclude_from_sim no)
@@ -8327,7 +8327,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 264.16 81.28 0)
 			(effects
 				(font
@@ -8361,7 +8361,7 @@
 			(uuid "cbc72240-3140-4760-8b1c-5b7f8a4c797d")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "X4")
 					(unit 2)
@@ -8370,7 +8370,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:W237-02P")
+		(lib_id "out_8x_16A_bistab-eagle-import:W237-02P")
 		(at 152.4 121.92 180)
 		(unit 2)
 		(exclude_from_sim no)
@@ -8397,7 +8397,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 152.4 121.92 0)
 			(effects
 				(font
@@ -8431,7 +8431,7 @@
 			(uuid "5c596805-274a-4d73-b53b-91e3e194c904")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "X6")
 					(unit 2)
@@ -8440,7 +8440,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:HFE20-1-024-1HD504")
+		(lib_id "out_8x_16A_bistab-eagle-import:HFE20-1-024-1HD504")
 		(at 241.3 68.58 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -8468,7 +8468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 241.3 68.58 0)
 			(effects
 				(font
@@ -8511,7 +8511,7 @@
 			(uuid "ac0eb0fc-c619-448d-8416-34c5b27fd2b7")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "K1")
 					(unit 2)
@@ -8520,7 +8520,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:HFE20-1-024-1HD504")
+		(lib_id "out_8x_16A_bistab-eagle-import:HFE20-1-024-1HD504")
 		(at 109.22 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8548,7 +8548,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 109.22 88.9 0)
 			(effects
 				(font
@@ -8591,7 +8591,7 @@
 			(uuid "7592aa78-f844-4d6d-906e-79f7bfdfe1fa")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "K8")
 					(unit 1)
@@ -8625,7 +8625,7 @@
 				)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:SO18W"
+		(property "Footprint" "out_8x_16A_bistab:SO18W"
 			(at 168.91 64.77 0)
 			(effects
 				(font
@@ -8708,7 +8708,7 @@
 			(uuid "420c0cc9-f8a0-4b43-9806-b8e6016dc316")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "IC1")
 					(unit 1)
@@ -8773,7 +8773,7 @@
 			(uuid "b67d1320-c5d5-4cf2-b3ef-b87a1c6e30a0")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "#PWR4")
 					(unit 1)
@@ -8782,7 +8782,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:HFE20-1-024-1HD504")
+		(lib_id "out_8x_16A_bistab-eagle-import:HFE20-1-024-1HD504")
 		(at 109.22 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8810,7 +8810,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 109.22 132.08 0)
 			(effects
 				(font
@@ -8853,7 +8853,7 @@
 			(uuid "2412e2fe-95fe-4144-97b1-5772a2abf011")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "K6")
 					(unit 1)
@@ -8888,7 +8888,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:E3,5-8"
+		(property "Footprint" "out_8x_16A_bistab:E3,5-8"
 			(at 72.0852 179.07 0)
 			(effects
 				(font
@@ -8922,7 +8922,7 @@
 			(uuid "14f12f75-7d84-4d4a-9f77-a06c00c52730")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "C2")
 					(unit 1)
@@ -8931,7 +8931,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:DINA4_L")
+		(lib_id "out_8x_16A_bistab-eagle-import:DINA4_L")
 		(at 180.34 198.12 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -8985,7 +8985,7 @@
 			)
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "#FRAME1")
 					(unit 2)
@@ -9021,7 +9021,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:C1206"
+		(property "Footprint" "out_8x_16A_bistab:C1206"
 			(at 69.5452 125.73 0)
 			(effects
 				(font
@@ -9055,7 +9055,7 @@
 			(uuid "ad70feed-05f9-4cc3-9404-839980b30f27")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "C4")
 					(unit 1)
@@ -9064,7 +9064,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:HFE20-1-024-1HD504")
+		(lib_id "out_8x_16A_bistab-eagle-import:HFE20-1-024-1HD504")
 		(at 215.9 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9092,7 +9092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 215.9 111.76 0)
 			(effects
 				(font
@@ -9135,7 +9135,7 @@
 			(uuid "752ec825-fcfa-4bcc-8066-015047b1aa0c")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "K3")
 					(unit 1)
@@ -9171,7 +9171,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:M1206"
+		(property "Footprint" "out_8x_16A_bistab:M1206"
 			(at 29.718 43.18 90)
 			(effects
 				(font
@@ -9205,7 +9205,7 @@
 			(uuid "ac659662-cafd-4241-9477-fddcad1fbfd0")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "R3")
 					(unit 1)
@@ -9270,7 +9270,7 @@
 			(uuid "ab79bc07-4e01-4b32-b226-2e86a10a2326")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "#PWR08")
 					(unit 1)
@@ -9305,7 +9305,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:E3,5-8"
+		(property "Footprint" "out_8x_16A_bistab:E3,5-8"
 			(at 59.3852 179.07 0)
 			(effects
 				(font
@@ -9339,7 +9339,7 @@
 			(uuid "131641f6-ebea-49f8-98c0-ead0c0da4fae")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "C1")
 					(unit 1)
@@ -9348,7 +9348,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:W237-02P")
+		(lib_id "out_8x_16A_bistab-eagle-import:W237-02P")
 		(at 264.16 58.42 180)
 		(unit 2)
 		(exclude_from_sim no)
@@ -9375,7 +9375,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 264.16 58.42 0)
 			(effects
 				(font
@@ -9409,7 +9409,7 @@
 			(uuid "d7d82b46-d654-4700-942e-8cf68b65ec35")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "X1")
 					(unit 2)
@@ -9418,7 +9418,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:W237-02P")
+		(lib_id "out_8x_16A_bistab-eagle-import:W237-02P")
 		(at 152.4 134.62 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9445,7 +9445,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 152.4 134.62 0)
 			(effects
 				(font
@@ -9479,7 +9479,7 @@
 			(uuid "04d1da32-4962-47a9-aabb-1fc342484279")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "X6")
 					(unit 1)
@@ -9488,7 +9488,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:W237-02P")
+		(lib_id "out_8x_16A_bistab-eagle-import:W237-02P")
 		(at 264.16 114.3 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9515,7 +9515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 264.16 114.3 0)
 			(effects
 				(font
@@ -9549,7 +9549,7 @@
 			(uuid "2b06466f-2579-4675-9c04-213ea0c53878")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "X3")
 					(unit 1)
@@ -9614,7 +9614,7 @@
 			(uuid "356acf30-cc6e-426d-8ee3-936c17b4791b")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "#PWR1")
 					(unit 1)
@@ -9679,7 +9679,7 @@
 			(uuid "b7b8540b-c1ad-4957-81f6-542e1e1bdcdb")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "#PWR6")
 					(unit 1)
@@ -9745,7 +9745,7 @@
 			(uuid "e74a12fc-0f3a-42a1-9787-8ea6e6f79efb")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "#PWR2")
 					(unit 1)
@@ -9810,7 +9810,7 @@
 			(uuid "000ec3e1-f438-4e5c-9409-b1df984b83c7")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "#PWR7")
 					(unit 1)
@@ -9875,7 +9875,7 @@
 			(uuid "70e00f40-b1b5-4cbe-ab69-68964db0f943")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "#PWR3")
 					(unit 1)
@@ -9940,7 +9940,7 @@
 			(uuid "a9400e42-5c3e-42c9-b314-ec68341ddcdc")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "#PWR1")
 					(unit 1)
@@ -9949,7 +9949,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:HFE20-1-024-1HD504")
+		(lib_id "out_8x_16A_bistab-eagle-import:HFE20-1-024-1HD504")
 		(at 215.9 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9977,7 +9977,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 215.9 68.58 0)
 			(effects
 				(font
@@ -10020,7 +10020,7 @@
 			(uuid "2154d0a6-185c-4657-b756-9794930c0bd1")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "K1")
 					(unit 1)
@@ -10085,7 +10085,7 @@
 			(uuid "650341b1-6192-4452-acf1-401eee546ce7")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "#PWR4")
 					(unit 1)
@@ -10094,7 +10094,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:W237-02P")
+		(lib_id "out_8x_16A_bistab-eagle-import:W237-02P")
 		(at 264.16 40.64 180)
 		(unit 2)
 		(exclude_from_sim no)
@@ -10121,7 +10121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 264.16 40.64 0)
 			(effects
 				(font
@@ -10155,7 +10155,7 @@
 			(uuid "eee659de-531d-4def-bbdc-8f124c34c3ea")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "X2")
 					(unit 2)
@@ -10164,7 +10164,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:HFE20-1-024-1HD504")
+		(lib_id "out_8x_16A_bistab-eagle-import:HFE20-1-024-1HD504")
 		(at 241.3 111.76 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -10192,7 +10192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 241.3 111.76 0)
 			(effects
 				(font
@@ -10235,7 +10235,7 @@
 			(uuid "1f4a8577-bdc5-41ca-9cad-8ae6a9aa5938")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "K3")
 					(unit 2)
@@ -10301,7 +10301,7 @@
 			(uuid "19d3398a-9c12-4fe8-853a-29c1b8571f58")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "#PWR2")
 					(unit 1)
@@ -10310,7 +10310,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:W237-02P")
+		(lib_id "out_8x_16A_bistab-eagle-import:W237-02P")
 		(at 152.4 142.24 180)
 		(unit 2)
 		(exclude_from_sim no)
@@ -10337,7 +10337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 152.4 142.24 0)
 			(effects
 				(font
@@ -10371,7 +10371,7 @@
 			(uuid "81e7fb4c-6015-4ab6-b92c-01ef747e6cb7")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "X5")
 					(unit 2)
@@ -10380,7 +10380,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:W237-02P")
+		(lib_id "out_8x_16A_bistab-eagle-import:W237-02P")
 		(at 152.4 99.06 180)
 		(unit 2)
 		(exclude_from_sim no)
@@ -10407,7 +10407,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 152.4 99.06 0)
 			(effects
 				(font
@@ -10441,7 +10441,7 @@
 			(uuid "b63ee2ef-e5f4-4ae6-8b21-e076a5798cb7")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "X7")
 					(unit 2)
@@ -10507,7 +10507,7 @@
 			(uuid "835e14d8-72a0-4d4b-adb6-811773d1913b")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "#PWR3")
 					(unit 1)
@@ -10577,7 +10577,7 @@
 			(uuid "9ad8c08c-fb86-4496-b77b-e5a1a06bafed")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "J1")
 					(unit 1)
@@ -10586,7 +10586,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:W237-02P")
+		(lib_id "out_8x_16A_bistab-eagle-import:W237-02P")
 		(at 152.4 111.76 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10613,7 +10613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 152.4 111.76 0)
 			(effects
 				(font
@@ -10647,7 +10647,7 @@
 			(uuid "2fb6011d-0a6c-4f47-941c-fef0b572cfa6")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "X7")
 					(unit 1)
@@ -10712,7 +10712,7 @@
 			(uuid "cd04989d-ae01-4bf8-acaa-da8682148549")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "#PWR5")
 					(unit 1)
@@ -10721,7 +10721,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:W237-02P")
+		(lib_id "out_8x_16A_bistab-eagle-import:W237-02P")
 		(at 152.4 91.44 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10748,7 +10748,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 152.4 91.44 0)
 			(effects
 				(font
@@ -10782,7 +10782,7 @@
 			(uuid "6fb9d997-3297-41ee-ba4c-071f7986cca1")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "X8")
 					(unit 1)
@@ -10791,7 +10791,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:W237-02P")
+		(lib_id "out_8x_16A_bistab-eagle-import:W237-02P")
 		(at 152.4 78.74 180)
 		(unit 2)
 		(exclude_from_sim no)
@@ -10818,7 +10818,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 152.4 78.74 0)
 			(effects
 				(font
@@ -10852,7 +10852,7 @@
 			(uuid "8c8b6bc2-300b-47a1-bf22-1a5a9336448a")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "X8")
 					(unit 2)
@@ -10918,7 +10918,7 @@
 			(uuid "2f5a158b-31d7-45cb-b3a1-dc7c835c79a2")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "#PWR1")
 					(unit 1)
@@ -10927,7 +10927,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:HFE20-1-024-1HD504")
+		(lib_id "out_8x_16A_bistab-eagle-import:HFE20-1-024-1HD504")
 		(at 134.62 88.9 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -10955,7 +10955,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 134.62 88.9 0)
 			(effects
 				(font
@@ -10998,7 +10998,7 @@
 			(uuid "dedfee70-c64a-4290-b373-c9fb9dcbf221")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "K8")
 					(unit 2)
@@ -11032,7 +11032,7 @@
 				)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:SO18W"
+		(property "Footprint" "out_8x_16A_bistab:SO18W"
 			(at 54.61 107.95 0)
 			(effects
 				(font
@@ -11115,7 +11115,7 @@
 			(uuid "674f9453-64ed-439f-ba85-86f268ef78a1")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "IC2")
 					(unit 1)
@@ -11124,7 +11124,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:W237-02P")
+		(lib_id "out_8x_16A_bistab-eagle-import:W237-02P")
 		(at 264.16 93.98 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11151,7 +11151,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 264.16 93.98 0)
 			(effects
 				(font
@@ -11185,7 +11185,7 @@
 			(uuid "e83ff256-3bf7-429e-9715-e9c2a55c786c")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "X4")
 					(unit 1)
@@ -11194,7 +11194,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:HFE20-1-024-1HD504")
+		(lib_id "out_8x_16A_bistab-eagle-import:HFE20-1-024-1HD504")
 		(at 215.9 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11222,7 +11222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 215.9 91.44 0)
 			(effects
 				(font
@@ -11265,7 +11265,7 @@
 			(uuid "5eb62016-5099-4845-939c-6530f4a08a62")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "K4")
 					(unit 1)
@@ -11274,7 +11274,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:HFE20-1-024-1HD504")
+		(lib_id "out_8x_16A_bistab-eagle-import:HFE20-1-024-1HD504")
 		(at 215.9 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11302,7 +11302,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 215.9 48.26 0)
 			(effects
 				(font
@@ -11345,7 +11345,7 @@
 			(uuid "04de6b32-932c-4c60-bd78-dbfc75a7a25d")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "K2")
 					(unit 1)
@@ -11354,7 +11354,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:HFE20-1-024-1HD504")
+		(lib_id "out_8x_16A_bistab-eagle-import:HFE20-1-024-1HD504")
 		(at 134.62 109.22 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -11382,7 +11382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 134.62 109.22 0)
 			(effects
 				(font
@@ -11425,7 +11425,7 @@
 			(uuid "a4876973-d401-48ad-9964-b24f3b807bb4")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "K7")
 					(unit 2)
@@ -11493,7 +11493,7 @@
 			(uuid "482de2f6-6f04-46fc-a8d0-e39244bd2dc6")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "JP1")
 					(unit 1)
@@ -11529,7 +11529,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:M1206"
+		(property "Footprint" "out_8x_16A_bistab:M1206"
 			(at 29.718 66.04 90)
 			(effects
 				(font
@@ -11563,7 +11563,7 @@
 			(uuid "cc3059ba-6729-4996-98e0-4708f8773fb7")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "R4")
 					(unit 1)
@@ -11572,7 +11572,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:HFE20-1-024-1HD504")
+		(lib_id "out_8x_16A_bistab-eagle-import:HFE20-1-024-1HD504")
 		(at 109.22 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11600,7 +11600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 109.22 152.4 0)
 			(effects
 				(font
@@ -11643,7 +11643,7 @@
 			(uuid "59e1e123-3252-4fbe-8d23-3ba302fb61fd")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "K5")
 					(unit 1)
@@ -11652,7 +11652,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:HFE20-1-024-1HD504")
+		(lib_id "out_8x_16A_bistab-eagle-import:HFE20-1-024-1HD504")
 		(at 241.3 50.8 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -11680,7 +11680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 241.3 50.8 0)
 			(effects
 				(font
@@ -11723,7 +11723,7 @@
 			(uuid "2ea5191a-20bd-42cf-bf73-c7f32a6b569d")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "K2")
 					(unit 2)
@@ -11759,7 +11759,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:C1206"
+		(property "Footprint" "out_8x_16A_bistab:C1206"
 			(at 181.3052 83.82 0)
 			(effects
 				(font
@@ -11793,7 +11793,7 @@
 			(uuid "da011822-be37-48c3-88ab-3a096fff22e7")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "C3")
 					(unit 1)
@@ -11802,7 +11802,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:HFE20-1-024-1HD504")
+		(lib_id "out_8x_16A_bistab-eagle-import:HFE20-1-024-1HD504")
 		(at 134.62 132.08 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -11830,7 +11830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:HFE20-3-504"
+		(property "Footprint" "out_8x_16A_bistab:HFE20-3-504"
 			(at 134.62 132.08 0)
 			(effects
 				(font
@@ -11873,7 +11873,7 @@
 			(uuid "ea07468b-ab10-463a-bfc2-d0d89784dbd9")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "K6")
 					(unit 2)
@@ -11938,7 +11938,7 @@
 			(uuid "a7d46321-4317-422a-833b-b13f66fd8ec4")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "#PWR5")
 					(unit 1)
@@ -12008,7 +12008,7 @@
 			(uuid "c93a126b-4e8e-492f-b1bb-6fbe43133221")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "D1")
 					(unit 1)
@@ -12017,7 +12017,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:PINHD-2X13_2.54-SMD")
+		(lib_id "out_8x_16A_bistab-eagle-import:PINHD-2X13_2.54-SMD")
 		(at 63.5 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12044,7 +12044,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:2X13SMD"
+		(property "Footprint" "out_8x_16A_bistab:2X13SMD"
 			(at 63.5 45.72 0)
 			(effects
 				(font
@@ -12150,7 +12150,7 @@
 			(uuid "fc3f7a27-6ac9-4f16-a74a-db699b698d23")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "JP2")
 					(unit 1)
@@ -12159,7 +12159,7 @@
 		)
 	)
 	(symbol
-		(lib_id "app_out_8x_16A_bistab_4MU_BOT_v2.0.0-eagle-import:W237-02P")
+		(lib_id "out_8x_16A_bistab-eagle-import:W237-02P")
 		(at 152.4 154.94 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12186,7 +12186,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "app_out_8x_16A_bistab_4MU_BOT_v2.0.0:W237-132"
+		(property "Footprint" "out_8x_16A_bistab:W237-132"
 			(at 152.4 154.94 0)
 			(effects
 				(font
@@ -12220,7 +12220,7 @@
 			(uuid "a02eadf5-fae3-4621-9254-780260c59b32")
 		)
 		(instances
-			(project "app_out_8x_16A_bistab_4MU_BOT_v2.0.0"
+			(project "out_8x_16A_bistab"
 				(path "/e17a8f7c-290a-48c4-8119-0faa75a2ce74"
 					(reference "X5")
 					(unit 1)
