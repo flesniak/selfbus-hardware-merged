@@ -2,3 +2,6 @@
 *.s#*
 *~
 **/*-backups/*.zip
+**/fp-info-cache
+**/*.kicad_sch.lck
+**/*.kicad_pcb.lck

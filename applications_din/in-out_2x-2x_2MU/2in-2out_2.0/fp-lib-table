@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "selfbus")(type "KiCad")(uri "$(KIPRJMOD)/2in-2out_2.0.pretty")(options "")(descr ""))
-)

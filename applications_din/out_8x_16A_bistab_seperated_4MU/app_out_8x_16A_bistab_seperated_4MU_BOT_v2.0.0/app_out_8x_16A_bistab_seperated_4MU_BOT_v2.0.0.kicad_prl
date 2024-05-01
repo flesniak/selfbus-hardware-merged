@@ -67,6 +67,12 @@
     "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
+  },
   "meta": {
     "filename": "app_out_8x_16A_bistab_seperated_4MU_BOT_v2.0.0.kicad_prl",
     "version": 3

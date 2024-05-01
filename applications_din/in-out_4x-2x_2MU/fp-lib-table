@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "selfbus")(type "KiCad")(uri "$(KIPRJMOD)/../../pcb-design/eagle/selfbus.pretty")(options "")(descr ""))
+)
