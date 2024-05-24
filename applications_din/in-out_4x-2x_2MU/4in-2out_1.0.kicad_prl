@@ -64,7 +64,7 @@
       39,
       40
     ],
-    "visible_layers": "00090a0_00000000",
+    "visible_layers": "ffcffff_ffffffff",
     "zone_display_mode": 1
   },
   "git": {
@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "2in-2out_2.0.kicad_prl",
+    "filename": "4in-2out_1.0.kicad_prl",
     "version": 3
   },
   "project": {

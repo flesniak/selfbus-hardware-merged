@@ -2381,7 +2381,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "selfbus:HUT_CNMB_2"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17902,8 +17902,8 @@
 			(justify right top mirror)
 		)
 	)
-	(gr_text "- bus +"
-		(at 189.145 62.738 270)
+	(gr_text "+ bus -"
+		(at 191.008 62.484 90)
 		(layer "B.SilkS")
 		(uuid "c4a89540-fce4-4db8-b1f1-1f3fe1c23721")
 		(effects
@@ -17940,7 +17940,7 @@
 		)
 	)
 	(gr_text "+ bus -"
-		(at 190.1952 62.5856 -90)
+		(at 190.246 62.484 -90)
 		(layer "F.SilkS")
 		(uuid "5b41710b-03f1-4307-8570-7e5b90e283af")
 		(effects
