@@ -314,7 +314,7 @@
 		(remove_unused_layers no)
 		(uuid "fdd0ba21-2c45-43d4-a756-a02e1db37810")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MCV_1,5_2-G-3.81_1x02_P3.81mm_Vertical.wrl"
+	(model "WAGO-243-211.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
