@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "io-16x-fused-fm-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/io-16x-fused-fm-eagle-import.kicad_sym")(options "")(descr ""))
+)

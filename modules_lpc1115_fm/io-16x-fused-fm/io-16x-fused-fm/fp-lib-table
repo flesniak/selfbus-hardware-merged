@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "io-16x-fused-fm")(type "KiCad")(uri "$(KIPRJMOD)/io-16x-fused-fm.pretty")(options "")(descr ""))
+)
