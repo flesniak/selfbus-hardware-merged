@@ -1,0 +1,267 @@
+(footprint "0805L"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "0805L Series Polyfuse Resettable PTC\n\nSource: http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_0805l_datasheet.pdf.pdf http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_0805l_datasheet.pdf.pdf")
+	(property "Reference" "REF**"
+		(at -1 -1.15 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "68f58903-f2ae-4614-8da4-603c511d2e5f")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "0805L"
+		(at -1 2.45 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "949e65ac-2261-4d44-b774-8170425d0642")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "0805L"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e1cb0173-d070-417a-b5cc-26a336258115")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9d3b9e62-b3eb-4542-89dc-ba80159df256")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1f622a8d-4d86-4b05-8167-de172b371f30")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(fp_line
+		(start -0.42 -0.65)
+		(end 0.42 -0.65)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "668c7166-f182-4688-a4d1-c466ca25876e")
+	)
+	(fp_line
+		(start -0.42 0.65)
+		(end 0.42 0.65)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "05614231-c17b-4e89-b08b-444f79769abd")
+	)
+	(fp_line
+		(start -1.05 -0.65)
+		(end -1.05 -0.2)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "582c319f-f7fc-4c62-9245-7a2041f5a883")
+	)
+	(fp_line
+		(start -1.05 -0.65)
+		(end -0.6 -0.65)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "24b0e6c9-d233-4638-b9d3-175dd230e8d5")
+	)
+	(fp_line
+		(start -1.05 0.2)
+		(end -1.05 0.65)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "00da7129-4420-46e4-a6b3-678371105200")
+	)
+	(fp_line
+		(start -1.05 0.65)
+		(end -0.6 0.65)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dad36221-dd0c-49b7-affd-bcc2b3148fad")
+	)
+	(fp_line
+		(start -0.6 -0.65)
+		(end -0.6 0.65)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "22cecea8-9bfb-4b56-841b-fc1e7c7d5e24")
+	)
+	(fp_line
+		(start -0.6 -0.65)
+		(end -0.42 -0.65)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bf3c7e41-5a98-4656-a89b-8372664b1b25")
+	)
+	(fp_line
+		(start -0.6 0.65)
+		(end -0.42 0.65)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e8abd713-f3c7-4750-9b69-d6103f899255")
+	)
+	(fp_line
+		(start 0.6 -0.65)
+		(end 0.42 -0.65)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4c6f1087-1e52-4039-9963-a4dd8a55cad3")
+	)
+	(fp_line
+		(start 0.6 -0.65)
+		(end 0.6 0.65)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "35cd56c4-e2df-4518-89f8-cc08a729d550")
+	)
+	(fp_line
+		(start 0.6 0.65)
+		(end 0.42 0.65)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "05dc2aae-dd60-4f32-9265-06f2c1744860")
+	)
+	(fp_line
+		(start 1.05 -0.65)
+		(end 0.6 -0.65)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f25e17e4-3d23-43b0-843c-58e023dae390")
+	)
+	(fp_line
+		(start 1.05 -0.65)
+		(end 1.05 -0.2)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d38baa4d-dad2-489b-9d26-3f057eadc29b")
+	)
+	(fp_line
+		(start 1.05 0.2)
+		(end 1.05 0.65)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "61adad06-2cff-4fff-9f48-267188ee3bc1")
+	)
+	(fp_line
+		(start 1.05 0.65)
+		(end 0.6 0.65)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5d3d7a11-fb16-461c-81de-c805e319a90c")
+	)
+	(fp_arc
+		(start -1.05 -0.2)
+		(mid -0.85 0)
+		(end -1.05 0.2)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "24069656-01d0-4063-b0e9-8ae71773c921")
+	)
+	(fp_arc
+		(start 1.05 0.2)
+		(mid 0.85 0)
+		(end 1.05 -0.2)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1cff5ae9-969d-449d-ab37-06b0739b93c5")
+	)
+	(pad "1" smd rect
+		(at -1.1 0)
+		(size 1 1.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "d46a15e1-4881-4e40-953e-4ecd6fccb4f1")
+	)
+	(pad "2" smd rect
+		(at 1.1 0)
+		(size 1 1.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "52c53139-64c5-4c79-aac2-6f50143e0c8a")
+	)
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "bb_pwr_knx_v-measure")(type "KiCad")(uri "$(KIPRJMOD)/bb_pwr_knx_v-measure.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,196 @@
+(footprint "ASF_204"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "CRYSTAL CLOCK OSCILLATORS\n\n5.0 Vdc or 3.3 Vdc - LOW PROFILE ULTRA MINIATURE CERAMIC SURFACE MOUNT\nSource: http://www.abracon.com/Oscillators/asf1-L-L1.pdf")
+	(property "Reference" "REF**"
+		(at -2.54 -2.54 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "77009fd2-5ceb-4e4c-8242-d374b87e3685")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "ASF_204"
+		(at -2.54 3.81 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "392ebc5d-1d69-4a43-9b09-db8c30db0769")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "ASF_204"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "90d35f81-ec84-4455-874f-b74d4db5e6c9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cd496c87-c72f-4940-b9f9-6b9a1bc79a33")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6b936eb4-128f-4702-9302-cc401abad8bb")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(fp_line
+		(start -2.4 1.3)
+		(end -2.4 -1.3)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fd70414d-c16c-41f2-8c69-04d956cccc48")
+	)
+	(fp_line
+		(start 2.4 -1.3)
+		(end 2.4 1.3)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7e69d64a-9da4-4c2c-8725-619c77e75fe5")
+	)
+	(fp_arc
+		(start -2.4 1.3)
+		(mid -2.258579 1.358579)
+		(end -2.2 1.5)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "be81b5e2-9fb2-4715-b6ec-7bf41fc6d415")
+	)
+	(fp_arc
+		(start -2.2 -1.5)
+		(mid -2.258579 -1.358579)
+		(end -2.4 -1.3)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "37a4224f-a010-4f55-86be-28aa275c8930")
+	)
+	(fp_arc
+		(start 2.2 1.5)
+		(mid 2.258579 1.358579)
+		(end 2.4 1.3)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a577f36c-1b39-41b1-ba12-9e349e2c39ec")
+	)
+	(fp_arc
+		(start 2.4 -1.3)
+		(mid 2.258579 -1.358579)
+		(end 2.2 -1.5)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6149508c-b106-489f-a7f9-ed48c3247271")
+	)
+	(fp_line
+		(start -2.2 -1.5)
+		(end 2.2 -1.5)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "71c2b9a2-ce8d-4235-bfc2-34acedb69c43")
+	)
+	(fp_line
+		(start 2.2 1.5)
+		(end -2.2 1.5)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c10f1b9d-e79f-4cb1-9a42-18b24b17ffa2")
+	)
+	(fp_circle
+		(center -1.9 0.95)
+		(end -1.8099 0.95)
+		(stroke
+			(width 0.1802)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Fab")
+		(uuid "e2ffb989-4823-4ba8-afa5-feabd361c8b1")
+	)
+	(pad "1" smd rect
+		(at -1.25 1.15)
+		(size 1.6 1.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "d5f3f1f1-7c9d-4a26-8bc0-943068760375")
+	)
+	(pad "2" smd rect
+		(at 1.25 1.15)
+		(size 1.6 1.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "75c00523-8f2e-4013-aa28-05276fc190a3")
+	)
+	(pad "3" smd rect
+		(at 1.25 -1.15 180)
+		(size 1.6 1.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "be9cc0ce-35a1-4ca5-bf30-7f8f3579d5f8")
+	)
+	(pad "4" smd rect
+		(at -1.25 -1.15 180)
+		(size 1.6 1.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "2ccfc38f-66a2-48d4-bed5-7fcecc9f20aa")
+	)
+)
