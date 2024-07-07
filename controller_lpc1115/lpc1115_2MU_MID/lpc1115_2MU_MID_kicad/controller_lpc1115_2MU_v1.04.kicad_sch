@@ -3481,7 +3481,7 @@
 				)
 			)
 		)
-		(symbol "Oscillator:XO32"
+		(symbol "Oscillator:SG-210STF"
 			(pin_names
 				(offset 0.254)
 			)
@@ -3497,7 +3497,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "XO32"
+			(property "Value" "SG-210STF"
 				(at 1.27 -6.35 0)
 				(effects
 					(font
@@ -3506,8 +3506,8 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Oscillator:Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm"
-				(at 17.78 -8.89 0)
+			(property "Footprint" "Oscillator:Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm"
+				(at 11.43 -8.89 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3515,7 +3515,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "http://cdn-reichelt.de/documents/datenblatt/B400/XO32.pdf"
+			(property "Datasheet" "https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-210STF"
 				(at -2.54 0 0)
 				(effects
 					(font
@@ -3524,7 +3524,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "HCMOS Clock Oscillator"
+			(property "Description" "CMOS Crystal Oscillator SPXO"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3542,7 +3542,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "Oscillator*SMD*EuroQuartz*XO32*3.2x2.5mm*"
+			(property "ki_fp_filters" "Oscillator*SMD*SeikoEpson*SG210*2.5x2.0mm*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3551,7 +3551,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "XO32_0_1"
+			(symbol "SG-210STF_0_1"
 				(rectangle
 					(start -5.08 5.08)
 					(end 5.08 -5.08)
@@ -3565,8 +3565,8 @@
 				)
 				(polyline
 					(pts
-						(xy -1.27 -0.762) (xy -1.016 -0.762) (xy -1.016 0.762) (xy -0.508 0.762) (xy -0.508 -0.762) (xy 0 -0.762)
-						(xy 0 0.762) (xy 0.508 0.762) (xy 0.508 -0.762) (xy 0.762 -0.762)
+						(xy -1.905 -0.635) (xy -1.27 -0.635) (xy -1.27 0.635) (xy -0.635 0.635) (xy -0.635 -0.635) (xy 0 -0.635)
+						(xy 0 0.635) (xy 0.635 0.635) (xy 0.635 -0.635)
 					)
 					(stroke
 						(width 0)
@@ -3577,11 +3577,11 @@
 					)
 				)
 			)
-			(symbol "XO32_1_1"
+			(symbol "SG-210STF_1_1"
 				(pin input line
 					(at -7.62 0 0)
 					(length 2.54)
-					(name "EN"
+					(name "~{ST}"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3635,7 +3635,7 @@
 				(pin power_in line
 					(at 0 7.62 270)
 					(length 2.54)
-					(name "V+"
+					(name "Vcc"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -14725,7 +14725,7 @@
 			(uuid "50abe2eb-218a-4f10-8441-66f1cc2121a7")
 		)
 		(instances
-			(project ""
+			(project "controller_lpc1115_2MU_v1.04"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R24")
 					(unit 1)
@@ -14959,7 +14959,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_2x05_P2.00mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_2x05_P2.00mm_Vertical"
 			(at 317.5 68.58 0)
 			(effects
 				(font
@@ -18886,7 +18886,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Oscillator:XO32")
+		(lib_id "Oscillator:SG-210STF")
 		(at 223.52 172.72 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18896,7 +18896,7 @@
 		(fields_autoplaced yes)
 		(uuid "e6c92ee4-3cb8-4826-9f30-c0da54632cb4")
 		(property "Reference" "X1"
-			(at 232.5877 166.575 0)
+			(at 233.68 166.4014 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18904,15 +18904,15 @@
 			)
 		)
 		(property "Value" "12MHz"
-			(at 232.5877 168.9993 0)
+			(at 233.68 168.9414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Oscillator:Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm"
-			(at 241.3 181.61 0)
+		(property "Footprint" "Oscillator:Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm"
+			(at 234.95 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18920,7 +18920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://cdn-reichelt.de/documents/datenblatt/B400/XO32.pdf"
+		(property "Datasheet" "https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-210STF"
 			(at 220.98 172.72 0)
 			(effects
 				(font
@@ -18929,7 +18929,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "HCMOS Clock Oscillator"
+		(property "Description" "CMOS Crystal Oscillator SPXO"
 			(at 223.52 172.72 0)
 			(effects
 				(font
@@ -19314,7 +19314,7 @@
 			(uuid "f7371784-bb6c-4d5c-b3c2-bc8b939b955a")
 		)
 		(instances
-			(project ""
+			(project "controller_lpc1115_2MU_v1.04"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "D7")
 					(unit 1)
