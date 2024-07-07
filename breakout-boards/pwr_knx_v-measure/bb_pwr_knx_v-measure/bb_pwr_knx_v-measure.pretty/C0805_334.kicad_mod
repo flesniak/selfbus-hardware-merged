@@ -1,7 +1,7 @@
 (footprint "C0805_334"
-	(version 20240617)
+	(version 20240108)
 	(generator "pcbnew")
-	(generator_version "8.99")
+	(generator_version "8.0")
 	(layer "F.Cu")
 	(descr "CAPACITOR")
 	(property "Reference" "REF**"
@@ -58,7 +58,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "92184999-a7a1-46d5-b2fd-5f297a30c79a")
+		(uuid "9218.09-a7a1-46d5-b2fd-5f297a30c79a")
 		(effects
 			(font
 				(size 1.27 1.27)

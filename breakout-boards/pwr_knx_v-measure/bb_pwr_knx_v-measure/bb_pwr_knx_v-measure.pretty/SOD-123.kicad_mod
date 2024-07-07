@@ -1,7 +1,7 @@
 (footprint "SOD-123"
-	(version 20240617)
+	(version 20240108)
 	(generator "pcbnew")
-	(generator_version "8.99")
+	(generator_version "8.0")
 	(layer "F.Cu")
 	(descr "SOD-123\n\nSource: http://www.diodes.com/datasheets/ds30139.pdf")
 	(property "Reference" "REF**"

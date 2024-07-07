@@ -1,7 +1,7 @@
 (footprint "1X03"
-	(version 20240617)
+	(version 20240108)
 	(generator "pcbnew")
-	(generator_version "8.99")
+	(generator_version "8.0")
 	(layer "F.Cu")
 	(descr "PIN HEADER")
 	(property "Reference" "REF**"
@@ -134,7 +134,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "dd518f3c-f6a0-4148-9955-0e51a8334daa")
+		(uuid "dd518f3c-f6a0-4148.055-0e51a8334daa")
 	)
 	(fp_line
 		(start -1.27 -0.635)

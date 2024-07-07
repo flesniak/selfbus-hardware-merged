@@ -1,7 +1,7 @@
 (footprint "SANYO-OSCON_SMD_C6_334"
-	(version 20240617)
+	(version 20240108)
 	(generator "pcbnew")
-	(generator_version "8.99")
+	(generator_version "8.0")
 	(layer "F.Cu")
 	(descr "SANYO OSCON Capacitor SMD type with conductive polymer electrolyte\n\nSource: e_os_all.pdf")
 	(property "Reference" "REF**"
