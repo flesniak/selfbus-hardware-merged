@@ -14002,7 +14002,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 191.77 94.8308 90)
 			(effects
 				(font
@@ -14845,7 +14845,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7µ/35V"
+		(property "Value" "4.7u/35V"
 			(at 72.39 52.07 90)
 			(effects
 				(font
@@ -15609,7 +15609,7 @@
 		(at 130.81 13.97 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(fields_autoplaced yes)
@@ -16246,7 +16246,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(fields_autoplaced yes)
@@ -17312,7 +17312,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100µ/35V"
+		(property "Value" "100u/35V"
 			(at 62.23 52.07 90)
 			(effects
 				(font
@@ -18023,7 +18023,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 296.799 94.2722 0)
 			(effects
 				(font
@@ -18150,7 +18150,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(uuid "88107292-a3bb-4528-951d-e3a6f7afd8f3")
@@ -18172,7 +18172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x12_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical"
 			(at 294.64 201.93 0)
 			(effects
 				(font
@@ -20011,7 +20011,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "10n"
 			(at 117.856 112.141 0)
 			(effects
 				(font
@@ -21121,7 +21121,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100µ/10V"
+		(property "Value" "100u/10V"
 			(at 204.851 38.7732 0)
 			(effects
 				(font
@@ -22718,7 +22718,7 @@
 		(at 247.65 132.08 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(fields_autoplaced yes)
@@ -23486,7 +23486,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47µ/10V"
+		(property "Value" "47u/10V"
 			(at 163.83 52.07 90)
 			(effects
 				(font
@@ -24402,7 +24402,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123F"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 130.81 40.64 0)
 			(effects
 				(font

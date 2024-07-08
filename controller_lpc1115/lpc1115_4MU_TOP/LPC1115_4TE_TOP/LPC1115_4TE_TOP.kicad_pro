@@ -59,8 +59,7 @@
         }
       ],
       "drc_exclusions": [
-        "courtyards_overlap|177697001|97942001|336d3fec-9d1b-4e4c-8989-809107775672|d6a926f2-a2a3-43a9-b987-4b0b2f44706f",
-        "starved_thermal|169330204|116586000|f04153b6-634b-41d7-98b1-a7305688f74b|21fe53ec-9470-4b9f-9ed8-4e9217855f3c|F.Cu"
+        "courtyards_overlap|177697001|97942001|336d3fec-9d1b-4e4c-8989-809107775672|d6a926f2-a2a3-43a9-b987-4b0b2f44706f"
       ],
       "meta": {
         "filename": "board_design_settings.json",

@@ -14319,7 +14319,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "EIB_WAGO_243-211"
+		(property "Value" "WAGO-243-211"
 			(at 23.3681 109.1621 0)
 			(effects
 				(font

@@ -5246,7 +5246,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "24R  1W"
+		(property "Value" "24R 1W"
 			(at 65.278 171.7422 0)
 			(effects
 				(font
@@ -6723,7 +6723,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "6,2k"
+		(property "Value" "6k2"
 			(at 103.632 145.0722 0)
 			(effects
 				(font
@@ -9084,7 +9084,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 86.36 130.81 0)
 			(effects
 				(font
@@ -9444,7 +9444,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 113.03 143.51 0)
 			(effects
 				(font

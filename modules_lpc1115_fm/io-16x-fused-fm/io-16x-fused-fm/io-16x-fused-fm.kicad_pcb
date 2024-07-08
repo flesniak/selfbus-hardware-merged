@@ -222,7 +222,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 0 1.68 -90)
 			(layer "F.Fab")
 			(uuid "3554ca6a-0c86-4fca-b939-2e8d3008fe5b")
@@ -1087,7 +1087,7 @@
 				)
 			)
 		)
-		(property "Value" "?0805L"
+		(property "Value" "BSMD0805-005-33V"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "1a253ce4-c867-4f8f-9873-037a5fd2ad6b")
@@ -1726,7 +1726,7 @@
 				)
 			)
 		)
-		(property "Value" "?0805L"
+		(property "Value" "BSMD0805-005-33V"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "a756b419-9574-4c6b-a228-6829782e0307")
@@ -2682,7 +2682,7 @@
 				)
 			)
 		)
-		(property "Value" "?0805L"
+		(property "Value" "BSMD0805-005-33V"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "22d768c9-d553-4d13-a0ba-8bc80f03342f")
@@ -3403,7 +3403,7 @@
 				)
 			)
 		)
-		(property "Value" "?0805L"
+		(property "Value" "BSMD0805-005-33V"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "67cbee4a-7bb6-4d99-ad0c-fcd197c0787b")
@@ -3829,7 +3829,7 @@
 				)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "1ac93196-b55d-404f-94bb-aef0892e25a0")
@@ -4255,7 +4255,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 0 1.68 180)
 			(layer "F.Fab")
 			(uuid "607ad3be-eb8d-487a-9171-498fe162d8fb")
@@ -4681,7 +4681,7 @@
 				)
 			)
 		)
-		(property "Value" "?0805L"
+		(property "Value" "BSMD0805-005-33V"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "75a2b7e4-09b5-4cf9-beeb-33e1e999624c")
@@ -5191,7 +5191,7 @@
 				)
 			)
 		)
-		(property "Value" "3,3k"
+		(property "Value" "3k3"
 			(at 0 1.65 180)
 			(layer "F.Fab")
 			(uuid "67b82504-9ba0-43cd-a489-0a9d70c0e2f0")
@@ -5884,7 +5884,7 @@
 				)
 			)
 		)
-		(property "Value" "3,3k"
+		(property "Value" "3k3"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "200855bb-69ba-4cf2-8cd3-b93f018fe920")
@@ -8043,7 +8043,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "8dd0c63f-e6d9-412a-8e94-4612bbac8d4f")
@@ -9328,7 +9328,7 @@
 				)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "10n"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "f43affe1-4090-45a6-b4e9-b02feca29c6e")
@@ -10134,7 +10134,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 0 1.68 -90)
 			(layer "F.Fab")
 			(uuid "e622aa03-1e94-4fb7-aa63-5ddad40f1c45")
@@ -11994,7 +11994,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 0 1.68 -90)
 			(layer "F.Fab")
 			(uuid "266aeb8e-7a98-45dc-a519-3b51822cd5a5")
@@ -13906,7 +13906,7 @@
 				)
 			)
 		)
-		(property "Value" "100pF"
+		(property "Value" "100p"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "e37a608c-9597-49f5-b94e-9ae06aad7f25")
@@ -15887,7 +15887,7 @@
 				)
 			)
 		)
-		(property "Value" "12 MHz"
+		(property "Value" "12MHz"
 			(at 0 2.2 180)
 			(layer "F.Fab")
 			(uuid "939ddca8-1493-4126-adff-1a7b0bc2156e")
@@ -16172,7 +16172,7 @@
 				)
 			)
 		)
-		(property "Value" "?0805L"
+		(property "Value" "BSMD0805-005-33V"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "395204dd-0b83-44a1-9526-92d468e35549")
@@ -16598,7 +16598,7 @@
 				)
 			)
 		)
-		(property "Value" "?0805L"
+		(property "Value" "BSMD0805-005-33V"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "8d4b32b3-214e-4f10-a497-f6b8d4a381b4")
@@ -17233,7 +17233,7 @@
 		)
 		(fp_arc
 			(start 1.344288 0.488343)
-			(mid 1.284242 0.476992)
+			(mid 1.284242 0.476993)
 			(end 1.225 0.462)
 			(stroke
 				(width 0.12)
@@ -17518,7 +17518,7 @@
 				)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "10n"
 			(at 0 1.68 180)
 			(layer "F.Fab")
 			(uuid "228ecc0c-a9ef-4692-9758-0874c7b824cb")
@@ -18164,7 +18164,7 @@
 		)
 		(fp_arc
 			(start 1.344288 0.488343)
-			(mid 1.284242 0.476992)
+			(mid 1.284242 0.476993)
 			(end 1.225 0.462)
 			(stroke
 				(width 0.12)
@@ -18975,7 +18975,7 @@
 				)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "1f322f60-408c-4072-a37a-1c249e0c13c0")
@@ -19401,7 +19401,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 0 1.68 180)
 			(layer "F.Fab")
 			(uuid "db55c1f1-3e8c-45f4-b742-1fd1b97cd3ec")
@@ -20605,7 +20605,7 @@
 		(path "/f1eee177-b3d3-4cdf-96f1-0f02b1a34f0c")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom dnp)
 		(fp_line
 			(start 1.8 9.4)
 			(end 1.8 -1.8)
@@ -21741,7 +21741,7 @@
 		(path "/178bafb4-6787-4a9e-81fe-42c0bcb86c82")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom dnp)
 		(fp_line
 			(start -1.8 -1.8)
 			(end -1.8 14.5)
@@ -21938,7 +21938,7 @@
 				)
 			)
 		)
-		(property "Value" "220pF"
+		(property "Value" "220p"
 			(at 0 1.68 180)
 			(layer "F.Fab")
 			(uuid "9fc43a20-562c-48fe-8353-10349733809b")
@@ -22364,7 +22364,7 @@
 				)
 			)
 		)
-		(property "Value" "?0805L"
+		(property "Value" "BSMD0805-005-33V"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "1c2ebb8a-f0d9-40e4-b942-c8b19abaebec")
@@ -23570,7 +23570,7 @@
 		(path "/11769ed6-7827-4ee5-b774-7436c3b96042")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start -0.65 -1.56)
 			(end 0 -1.56)
@@ -23840,7 +23840,7 @@
 		(path "/3a2b7f64-7f90-4e8b-8db8-01ddd7bc1db1")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.227064 -0.735)
 			(end -0.227064 -0.735)
@@ -24059,7 +24059,7 @@
 		(path "/73dadeaa-20d4-44e3-847d-5afc4240772b")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.227064 -0.735)
 			(end -0.227064 -0.735)
@@ -24278,7 +24278,7 @@
 		(path "/1dd7318e-09aa-4d1e-9af1-d97d8293adac")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.227064 -0.735)
 			(end -0.227064 -0.735)
@@ -24497,7 +24497,7 @@
 		(path "/ddbf0683-d002-4c4a-9f64-769b502c0efb")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.227064 -0.735)
 			(end -0.227064 -0.735)
@@ -24716,7 +24716,7 @@
 		(path "/f8649e9b-9f53-4c2d-a8db-142c741a016f")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.399622 0.56)
 			(end -0.399622 0.56)
@@ -24935,7 +24935,7 @@
 		(path "/edbd9ce1-f921-41cc-9d57-6abdcdfc1747")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start -2.36 -1)
 			(end -2.36 1)
@@ -25236,7 +25236,7 @@
 		(path "/79eeeb90-8b6b-4684-b02b-de294433107c")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.227064 -0.735)
 			(end -0.227064 -0.735)
@@ -25455,7 +25455,7 @@
 		(path "/ab61864d-47b2-4372-9abc-7c5d4fc97883")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.227064 -0.735)
 			(end -0.227064 -0.735)
@@ -25616,7 +25616,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 0 -1.68 90)
 			(layer "B.Fab")
 			(uuid "4b458b33-bb02-4e83-bde4-396fafa38027")
@@ -25674,7 +25674,7 @@
 		(path "/59aca081-e1e1-442f-86fe-356a0d6c1bba")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.261252 -0.735)
 			(end -0.261252 -0.735)
@@ -25893,7 +25893,7 @@
 		(path "/d5d26476-f485-41b9-be3e-ba623812b405")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.399622 0.56)
 			(end -0.399622 0.56)
@@ -26112,7 +26112,7 @@
 		(path "/b5e8ae9c-335d-4a84-982c-8ca450aa9345")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start -2.36 -1)
 			(end -2.36 1)
@@ -26413,7 +26413,7 @@
 		(path "/0e622f10-3be8-49ac-b44d-b16c34c3c8a0")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 1.65 1)
 			(end -2.36 1)
@@ -26714,7 +26714,7 @@
 		(path "/65873be4-0a7b-4d78-b5b3-b2758055df37")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.399622 -0.56)
 			(end -0.399622 -0.56)
@@ -26933,7 +26933,7 @@
 		(path "/a02d6992-6550-4914-abcb-2c915a58ead6")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.399622 0.56)
 			(end -0.399622 0.56)
@@ -27094,7 +27094,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "?0805L"
+		(property "Value" "BSMD0805-005-33V"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "60f43155-9c97-410f-8bcd-0dffcbcd018a")
@@ -27152,7 +27152,7 @@
 		(path "/95278587-477c-4d42-84d2-71e5a8337858")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.258578 -0.71)
 			(end -0.258578 -0.71)
@@ -27371,7 +27371,7 @@
 		(path "/3013b3a0-fc5f-47e7-b3e6-52ec7b4aa039")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.227064 -0.735)
 			(end -0.227064 -0.735)
@@ -27590,7 +27590,7 @@
 		(path "/c9636624-4fd0-48be-9431-e2ad8963aa4f")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.399622 0.56)
 			(end -0.399622 0.56)
@@ -27930,7 +27930,7 @@
 		(path "/a5649a49-bf01-447a-88a7-d646310d81f2")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.227064 -0.735)
 			(end -0.227064 -0.735)
@@ -28149,7 +28149,7 @@
 		(path "/09597da1-c792-4d90-b85f-f6d90a4395cb")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start -0.65 -1.56)
 			(end 0 -1.56)
@@ -28419,7 +28419,7 @@
 		(path "/145cef1b-9635-49c2-9497-903f4a018688")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start -0.8 -1.56)
 			(end 0 -1.56)
@@ -28722,7 +28722,7 @@
 		(path "/f1c76a24-b32d-42e5-9fd3-9e2dd6320387")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.227064 -0.735)
 			(end -0.227064 -0.735)
@@ -28941,7 +28941,7 @@
 		(path "/89d146dc-0696-4388-9bb9-58ef2688c4af")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start -0.8 -1.56)
 			(end 0 -1.56)
@@ -29186,7 +29186,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 0 -1.68 -90)
 			(layer "B.Fab")
 			(uuid "87b679c8-d8a2-4d7a-aa64-33cf65769903")
@@ -29244,7 +29244,7 @@
 		(path "/ed608e1b-6f10-4901-b343-dc67d1c3c183")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.261252 0.735)
 			(end -0.261252 0.735)
@@ -29463,7 +29463,7 @@
 		(path "/3ab2a1e7-6b14-4c79-8867-78690dc7387e")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 1.65 1)
 			(end -2.36 1)
@@ -29764,7 +29764,7 @@
 		(path "/d9868d0b-6082-44b0-aeed-4fa45975b3ce")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start -2.36 -1)
 			(end -2.36 1)
@@ -30065,7 +30065,7 @@
 		(path "/88a015e6-4db4-4112-8d05-360c137f2e3e")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.227064 -0.735)
 			(end -0.227064 -0.735)
@@ -30284,7 +30284,7 @@
 		(path "/34d80f8a-e40f-4f75-9131-1b98342518b4")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 1.65 1)
 			(end -2.36 1)
@@ -30585,7 +30585,7 @@
 		(path "/0b5a4466-0d5e-471f-a54e-ea182a8e447a")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.399622 -0.56)
 			(end -0.399622 -0.56)
@@ -30746,7 +30746,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "?0805L"
+		(property "Value" "BSMD0805-005-33V"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "eb17295c-4751-4339-a6e9-266a3f20ab11")
@@ -30804,7 +30804,7 @@
 		(path "/f4e839df-f317-4b92-9a88-137e9fc5e691")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.258578 -0.71)
 			(end -0.258578 -0.71)
@@ -31023,7 +31023,7 @@
 		(path "/d60c731a-85c6-4da2-bfa9-c24a7c882e43")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.227064 -0.735)
 			(end -0.227064 -0.735)
@@ -31242,7 +31242,7 @@
 		(path "/0458010a-cfd0-4b1d-9392-c730f11c0c36")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start -2.36 -1)
 			(end -2.36 1)
@@ -31543,7 +31543,7 @@
 		(path "/036f8e3b-1172-45db-9756-b4905294aaff")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.399622 -0.56)
 			(end -0.399622 -0.56)
@@ -31762,7 +31762,7 @@
 		(path "/95098080-00c5-48a5-a9f9-9d9909b61049")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.227064 -0.735)
 			(end -0.227064 -0.735)
@@ -31923,7 +31923,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "?0805L"
+		(property "Value" "BSMD0805-005-33V"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "160630d1-9e86-414f-9acf-e5ced05ccf8b")
@@ -31981,7 +31981,7 @@
 		(path "/f2a45d9a-7e66-430c-a6b2-8b2243e04bee")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.258578 -0.71)
 			(end -0.258578 -0.71)
@@ -32200,7 +32200,7 @@
 		(path "/9317c919-b3ce-4ae5-99c5-a6e19f43c68a")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start -0.65 -1.56)
 			(end 0 -1.56)
@@ -32591,7 +32591,7 @@
 		(path "/c6b0e4d4-b1bc-412c-b093-b098c0babd86")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.227064 -0.735)
 			(end -0.227064 -0.735)
@@ -33173,7 +33173,7 @@
 		(path "/63ed348a-ff0f-4c23-8c75-f7ab05af0b07")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.227064 -0.735)
 			(end -0.227064 -0.735)
@@ -33392,7 +33392,7 @@
 		(path "/3895ecf6-b1b0-4ddf-81d0-b738beaa41e7")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.65 1.56)
 			(end 0 1.56)
@@ -33604,7 +33604,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "?0805L"
+		(property "Value" "BSMD0805-005-33V"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "13e5f920-5ce3-43fd-bc4d-f28f5295cc41")
@@ -33662,7 +33662,7 @@
 		(path "/0e9e6012-5d93-42c1-a634-469fb4ba42d9")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.258578 -0.71)
 			(end -0.258578 -0.71)
@@ -33881,7 +33881,7 @@
 		(path "/2b85c368-ebc9-48c1-8c00-5bc22446e914")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.399622 -0.56)
 			(end -0.399622 -0.56)
@@ -34498,7 +34498,7 @@
 		(path "/96bf329d-04ad-429a-8b8a-f5e5139d0400")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.227064 -0.735)
 			(end -0.227064 -0.735)
@@ -34659,7 +34659,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "?0805L"
+		(property "Value" "BSMD0805-005-33V"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "9d4dba6c-5bc7-483e-9d42-45ecc1f1ed28")
@@ -34717,7 +34717,7 @@
 		(path "/74be323f-5411-4a47-a08f-856eed02620b")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.258578 -0.71)
 			(end -0.258578 -0.71)
@@ -34878,7 +34878,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "?0805L"
+		(property "Value" "BSMD0805-005-33V"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "051942dc-8e1c-477a-8903-a88e97a5326e")
@@ -34936,7 +34936,7 @@
 		(path "/be34402c-5461-4493-a7c4-26c44cb4d255")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.258578 -0.71)
 			(end -0.258578 -0.71)
@@ -35218,7 +35218,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "?0805L"
+		(property "Value" "BSMD0805-005-33V"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "1afadbfc-3a60-4b7b-b402-e0e72248e6bf")
@@ -35276,7 +35276,7 @@
 		(path "/696eb680-d778-4dde-8351-55115a9160cb")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.258578 -0.71)
 			(end -0.258578 -0.71)
@@ -35437,7 +35437,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "?0805L"
+		(property "Value" "BSMD0805-005-33V"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "cc6c8f6c-5e48-4ac8-868e-586ead4d24a1")
@@ -35495,7 +35495,7 @@
 		(path "/0240d6b7-141e-47a7-aa6e-b94b7385152a")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.258578 -0.71)
 			(end -0.258578 -0.71)
@@ -35714,7 +35714,7 @@
 		(path "/39c027d8-373b-4eee-8d3c-7f088cafce94")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 1.65 1)
 			(end -2.36 1)
@@ -36015,7 +36015,7 @@
 		(path "/fd233b1a-818e-4476-8d90-d00e2c0cab37")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 0.227064 -0.735)
 			(end -0.227064 -0.735)

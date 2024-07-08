@@ -11038,7 +11038,7 @@
 				)
 			)
 		)
-		(property "Value" "EIB_WAGO_243-211"
+		(property "Value" "WAGO-243-211"
 			(at 3.175 7.874 -90)
 			(layer "F.Fab")
 			(uuid "3990a40a-1d2e-4ba5-b50e-7cbab3985a7b")
