@@ -2139,6 +2139,377 @@
 				)
 			)
 		)
+		(symbol "Connector_Generic:Conn_01x10"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x10"
+				(at 0 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x10_1_1"
+				(rectangle
+					(start -1.27 -12.573)
+					(end 0 -12.827)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -10.033)
+					(end 0 -10.287)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -7.493)
+					(end 0 -7.747)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 5.207)
+					(end 0 4.953)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 7.747)
+					(end 0 7.493)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 10.287)
+					(end 0 10.033)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 11.43)
+					(end 1.27 -13.97)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -5.08 10.16 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -12.7 0)
+					(length 3.81)
+					(name "Pin_10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 7.62 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 5.08 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -7.62 0)
+					(length 3.81)
+					(name "Pin_8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -10.16 0)
+					(length 3.81)
+					(name "Pin_9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector_Generic:Conn_02x05_Odd_Even"
 			(pin_names
 				(offset 1.016) hide)
@@ -6490,505 +6861,6 @@
 						(effects
 							(font
 								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "io-16x-fused-fm-eagle-import:MICROMATCH-10SMD"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "X"
-				(at -0.508 0.762 0)
-				(effects
-					(font
-						(size 1.524 1.2954)
-					)
-					(justify right top)
-				)
-			)
-			(property "Value" ""
-				(at 0 0.889 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "io-16x-fused-fm:MICROMATCH-10SMD"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "MicroMaTch 10  8-215464-0 / 1-215464-0\n\nDrawing Number C-215464\nDDEController.pdf"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "MICROMATCH-10SMD_1_0"
-				(polyline
-					(pts
-						(xy 0 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0.6096)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(symbol "MICROMATCH-10SMD_2_0"
-				(polyline
-					(pts
-						(xy 0 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0.6096)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(symbol "MICROMATCH-10SMD_3_0"
-				(polyline
-					(pts
-						(xy 0 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0.6096)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(symbol "MICROMATCH-10SMD_4_0"
-				(polyline
-					(pts
-						(xy 0 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0.6096)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(symbol "MICROMATCH-10SMD_5_0"
-				(polyline
-					(pts
-						(xy 0 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0.6096)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(symbol "MICROMATCH-10SMD_6_0"
-				(polyline
-					(pts
-						(xy 0 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0.6096)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(symbol "MICROMATCH-10SMD_7_0"
-				(polyline
-					(pts
-						(xy 0 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0.6096)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(symbol "MICROMATCH-10SMD_8_0"
-				(polyline
-					(pts
-						(xy 0 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0.6096)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(symbol "MICROMATCH-10SMD_9_0"
-				(polyline
-					(pts
-						(xy 0 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0.6096)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(symbol "MICROMATCH-10SMD_10_0"
-				(polyline
-					(pts
-						(xy 0 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0.6096)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 0 0)
 							)
 						)
 					)
@@ -16415,7 +16287,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
+		(property "Footprint" "selfbus:PinHeader_1x06_P2.54mm_Vertical_no_silkscreen"
 			(at 556.26 500.38 0)
 			(effects
 				(font
@@ -16733,100 +16605,6 @@
 				(path "/bc6c0e25-ee78-4e9d-8d79-0b05f10f4229"
 					(reference "#PWR060")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "io-16x-fused-fm-eagle-import:MICROMATCH-10SMD")
-		(at 490.22 198.12 0)
-		(unit 10)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1dd33483-f12c-4b69-a127-e4587a0652b5")
-		(property "Reference" "X1"
-			(at 489.712 197.358 0)
-			(effects
-				(font
-					(size 1.524 1.2954)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "MICROMATCH-10SMD"
-			(at 490.22 197.231 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "io-16x-fused-fm:MICROMATCH-10SMD"
-			(at 490.22 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 490.22 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 490.22 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d6fa1f9b-abe3-4c3f-838b-02c296904772")
-		)
-		(pin "2"
-			(uuid "206c93f3-7749-4ed3-9500-89c062682a6e")
-		)
-		(pin "3"
-			(uuid "155ff638-a5a2-4cf2-91bf-b4adbba0d5af")
-		)
-		(pin "4"
-			(uuid "6b357bcc-2ee9-463f-9f13-4ccbf6047d1a")
-		)
-		(pin "5"
-			(uuid "e0840738-ab50-41e0-aa8d-731050c85103")
-		)
-		(pin "6"
-			(uuid "01b8ebd0-be20-4d88-b033-6697b2039b46")
-		)
-		(pin "7"
-			(uuid "a712587b-d639-45c7-9c14-de86fb6d8402")
-		)
-		(pin "8"
-			(uuid "d622e576-cee4-4cd9-88a3-43039bb99255")
-		)
-		(pin "9"
-			(uuid "0ab78f2e-91e3-4bc0-a028-d76f341d0f04")
-		)
-		(pin "10"
-			(uuid "8479ca5d-1dc1-4455-9ed8-04e655fa2755")
-		)
-		(instances
-			(project "io-16x-fused-fm"
-				(path "/bc6c0e25-ee78-4e9d-8d79-0b05f10f4229"
-					(reference "X1")
-					(unit 10)
 				)
 			)
 		)
@@ -17305,100 +17083,6 @@
 				(path "/bc6c0e25-ee78-4e9d-8d79-0b05f10f4229"
 					(reference "FB8")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "io-16x-fused-fm-eagle-import:MICROMATCH-10SMD")
-		(at 490.22 180.34 0)
-		(unit 3)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2bb8ed2b-e2e5-49b6-afa2-674fc1d80b22")
-		(property "Reference" "X1"
-			(at 489.712 179.578 0)
-			(effects
-				(font
-					(size 1.524 1.2954)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "MICROMATCH-10SMD"
-			(at 490.22 179.451 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "io-16x-fused-fm:MICROMATCH-10SMD"
-			(at 490.22 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 490.22 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 490.22 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d987e67a-3f37-44cf-bc02-a0f94a3f45e5")
-		)
-		(pin "2"
-			(uuid "d5f67b5e-f8d4-41fb-bc38-fcb570d4b748")
-		)
-		(pin "3"
-			(uuid "a11fab45-4e93-49f1-9f05-94ce2ac1010b")
-		)
-		(pin "4"
-			(uuid "b93c85f8-ac07-480b-935a-bf28968e5a4f")
-		)
-		(pin "5"
-			(uuid "579d3b17-195d-449f-90c1-c58e6ad1ff48")
-		)
-		(pin "6"
-			(uuid "b5fe6433-7c01-4f44-9113-8ce2c7b2b248")
-		)
-		(pin "7"
-			(uuid "636d29e6-a13c-4f88-8cca-ec70c8db8c76")
-		)
-		(pin "8"
-			(uuid "f69682ff-fbba-48e3-8668-e4d0d2356654")
-		)
-		(pin "9"
-			(uuid "9da88c0e-58e0-4b2c-b3a1-ea1f753981c9")
-		)
-		(pin "10"
-			(uuid "c3b425df-71a1-4570-8376-bd4f7fef94cc")
-		)
-		(instances
-			(project "io-16x-fused-fm"
-				(path "/bc6c0e25-ee78-4e9d-8d79-0b05f10f4229"
-					(reference "X1")
-					(unit 3)
 				)
 			)
 		)
@@ -18635,7 +18319,7 @@
 				)
 			)
 		)
-		(property "Footprint" "io-16x-fused-fm:SOT23-5"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 429.26 447.04 0)
 			(effects
 				(font
@@ -19988,100 +19672,6 @@
 		)
 	)
 	(symbol
-		(lib_id "io-16x-fused-fm-eagle-import:MICROMATCH-10SMD")
-		(at 490.22 185.42 0)
-		(unit 5)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5f24f061-1982-4859-adff-b844530b88b6")
-		(property "Reference" "X1"
-			(at 489.712 184.658 0)
-			(effects
-				(font
-					(size 1.524 1.2954)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "MICROMATCH-10SMD"
-			(at 490.22 184.531 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "io-16x-fused-fm:MICROMATCH-10SMD"
-			(at 490.22 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 490.22 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 490.22 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "de2a8795-a2a3-46c1-b332-ec17e231974c")
-		)
-		(pin "2"
-			(uuid "76c188b9-6ed6-437c-bc92-79de71ed6fe6")
-		)
-		(pin "3"
-			(uuid "ef4473b8-bc95-498e-bbd4-2abd6970d1d9")
-		)
-		(pin "4"
-			(uuid "1bf8b863-4636-48c1-af6a-44291468b9b6")
-		)
-		(pin "5"
-			(uuid "473c6ea2-c8cd-4dea-8b70-f4f65f5f282e")
-		)
-		(pin "6"
-			(uuid "c9e6fe0d-d9df-4834-a85c-0f3b32b75f55")
-		)
-		(pin "7"
-			(uuid "0b290192-02c0-4b94-9d89-35a0bb748719")
-		)
-		(pin "8"
-			(uuid "a8e4c66f-c99f-4a12-9307-4aecfd9929b0")
-		)
-		(pin "9"
-			(uuid "88466f4d-eb51-4380-aefc-877d8463fa3e")
-		)
-		(pin "10"
-			(uuid "4c4b8485-0a5f-4d11-b403-7c9ae93c8427")
-		)
-		(instances
-			(project "io-16x-fused-fm"
-				(path "/bc6c0e25-ee78-4e9d-8d79-0b05f10f4229"
-					(reference "X1")
-					(unit 5)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 203.2 457.2 270)
 		(mirror x)
@@ -20571,100 +20161,6 @@
 				(path "/bc6c0e25-ee78-4e9d-8d79-0b05f10f4229"
 					(reference "C32")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "io-16x-fused-fm-eagle-import:MICROMATCH-10SMD")
-		(at 490.22 190.5 0)
-		(unit 7)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "68dcd551-d5f6-4d50-a3ca-39b3f4dcc890")
-		(property "Reference" "X1"
-			(at 489.712 189.738 0)
-			(effects
-				(font
-					(size 1.524 1.2954)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "MICROMATCH-10SMD"
-			(at 490.22 189.611 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "io-16x-fused-fm:MICROMATCH-10SMD"
-			(at 490.22 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 490.22 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 490.22 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b3bd23fc-0f60-4064-9607-dd0f2caf723b")
-		)
-		(pin "2"
-			(uuid "4457435f-2ae6-4612-916a-846d18bf9e7a")
-		)
-		(pin "3"
-			(uuid "fed12c04-c00c-4ff0-9ecf-bfc90efc62dd")
-		)
-		(pin "4"
-			(uuid "82294f55-9b52-4269-9cf7-f671d1fc46b2")
-		)
-		(pin "5"
-			(uuid "a9b6e8ee-b42c-4673-8a2e-8834dc65ad5d")
-		)
-		(pin "6"
-			(uuid "b11c1e74-97d3-434e-b279-f199122d6626")
-		)
-		(pin "7"
-			(uuid "08391a91-af44-4288-a69a-dd716f6c034c")
-		)
-		(pin "8"
-			(uuid "ca21886c-5da4-4b9c-9ca2-0d12b56787ea")
-		)
-		(pin "9"
-			(uuid "fde97ecc-4316-4bf4-bab4-87d96e017d5f")
-		)
-		(pin "10"
-			(uuid "1526622d-795b-457a-9f4f-2199bfb80421")
-		)
-		(instances
-			(project "io-16x-fused-fm"
-				(path "/bc6c0e25-ee78-4e9d-8d79-0b05f10f4229"
-					(reference "X1")
-					(unit 7)
 				)
 			)
 		)
@@ -24676,100 +24172,6 @@
 		)
 	)
 	(symbol
-		(lib_id "io-16x-fused-fm-eagle-import:MICROMATCH-10SMD")
-		(at 490.22 182.88 0)
-		(unit 4)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b7941235-1803-4fac-be0b-2cbb4614bb9c")
-		(property "Reference" "X1"
-			(at 489.712 182.118 0)
-			(effects
-				(font
-					(size 1.524 1.2954)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "MICROMATCH-10SMD"
-			(at 490.22 181.991 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "io-16x-fused-fm:MICROMATCH-10SMD"
-			(at 490.22 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 490.22 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 490.22 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d62d35e6-c9a1-47a5-a4a5-47e9ea2b6a78")
-		)
-		(pin "2"
-			(uuid "c63a1c30-d62d-4598-88f1-72306352e701")
-		)
-		(pin "3"
-			(uuid "7d94cf9a-67ce-4c8c-ad4d-a95ef6c65d46")
-		)
-		(pin "4"
-			(uuid "6d5b10b2-2dc0-4bba-80fa-b0fbb2adf018")
-		)
-		(pin "5"
-			(uuid "808d49a8-bfb5-43c0-aefb-5679ad51163c")
-		)
-		(pin "6"
-			(uuid "91b6d058-2dca-43c3-b7a3-0c3bf7184665")
-		)
-		(pin "7"
-			(uuid "40a2862e-a578-43b5-a85c-0f87af9f8508")
-		)
-		(pin "8"
-			(uuid "7c2dd4ed-ec3e-41ed-8476-50fdcc9ef5c5")
-		)
-		(pin "9"
-			(uuid "ffe8e509-01f5-4086-84c0-c358e1d89682")
-		)
-		(pin "10"
-			(uuid "1d4172bb-4e8c-4fbd-a2c9-87c7c56924d1")
-		)
-		(instances
-			(project "io-16x-fused-fm"
-				(path "/bc6c0e25-ee78-4e9d-8d79-0b05f10f4229"
-					(reference "X1")
-					(unit 4)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 716.28 378.46 0)
 		(unit 1)
@@ -25039,25 +24441,26 @@
 		)
 	)
 	(symbol
-		(lib_id "io-16x-fused-fm-eagle-import:MICROMATCH-10SMD")
-		(at 490.22 175.26 0)
+		(lib_id "Connector_Generic:Conn_01x10")
+		(at 490.22 185.42 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "c0fa4f37-1cb7-4884-9838-308e0dc7a055")
 		(property "Reference" "X1"
-			(at 489.712 174.498 0)
+			(at 490.22 172.1158 0)
 			(effects
 				(font
 					(size 1.524 1.2954)
 				)
-				(justify right top)
 			)
 		)
 		(property "Value" "MICROMATCH-10SMD"
-			(at 474.98 171.831 0)
+			(at 505.46 181.991 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -25066,8 +24469,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "io-16x-fused-fm:MICROMATCH-10SMD"
-			(at 490.22 175.26 0)
+		(property "Footprint" "selfbus:TE_Connectivity_MICRO-MATCH_SMD_FTE_1-188275-0_2x05_P1.27mm_Vertical"
+			(at 490.22 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25075,8 +24478,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 490.22 175.26 0)
+		(property "Datasheet" "~"
+			(at 490.22 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25084,8 +24487,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 490.22 175.26 0)
+		(property "Description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 490.22 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25196,100 +24599,6 @@
 				(path "/bc6c0e25-ee78-4e9d-8d79-0b05f10f4229"
 					(reference "J3")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "io-16x-fused-fm-eagle-import:MICROMATCH-10SMD")
-		(at 490.22 193.04 0)
-		(unit 8)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c53e242d-a3dd-4ca5-85e4-4f89c8389ab3")
-		(property "Reference" "X1"
-			(at 489.712 192.278 0)
-			(effects
-				(font
-					(size 1.524 1.2954)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "MICROMATCH-10SMD"
-			(at 490.22 192.151 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "io-16x-fused-fm:MICROMATCH-10SMD"
-			(at 490.22 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 490.22 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 490.22 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1c218219-6959-4a32-af08-32cec6fb6dd3")
-		)
-		(pin "2"
-			(uuid "43fe8b06-3c63-4c06-8574-c4767e50a52b")
-		)
-		(pin "3"
-			(uuid "11a02095-1e33-440b-a0eb-e70c7cd03c21")
-		)
-		(pin "4"
-			(uuid "a1ce95be-e87f-4fa9-a59b-2c6af3e3b8fc")
-		)
-		(pin "5"
-			(uuid "2b6fad5a-1266-4098-bf55-f294f4cf3d44")
-		)
-		(pin "6"
-			(uuid "08407202-b003-44c4-916f-2dca3ae52cbe")
-		)
-		(pin "7"
-			(uuid "34e3be54-5733-4df0-92f5-45466bab9489")
-		)
-		(pin "8"
-			(uuid "32dd4ac0-6ae1-4215-8dcb-401e3e9025dd")
-		)
-		(pin "9"
-			(uuid "9228a578-99d8-4fde-ae63-b1d95a128f79")
-		)
-		(pin "10"
-			(uuid "8d6c208c-342b-4b29-99ac-6da120712502")
-		)
-		(instances
-			(project "io-16x-fused-fm"
-				(path "/bc6c0e25-ee78-4e9d-8d79-0b05f10f4229"
-					(reference "X1")
-					(unit 8)
 				)
 			)
 		)
@@ -26811,100 +26120,6 @@
 		)
 	)
 	(symbol
-		(lib_id "io-16x-fused-fm-eagle-import:MICROMATCH-10SMD")
-		(at 490.22 187.96 0)
-		(unit 6)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d54a9ccf-bbd5-419b-a3d8-8400ef45387b")
-		(property "Reference" "X1"
-			(at 489.712 187.198 0)
-			(effects
-				(font
-					(size 1.524 1.2954)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "MICROMATCH-10SMD"
-			(at 490.22 187.071 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "io-16x-fused-fm:MICROMATCH-10SMD"
-			(at 490.22 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 490.22 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 490.22 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2d468aac-db99-4ae5-a6b5-bb67e796b9c7")
-		)
-		(pin "2"
-			(uuid "880d0c74-07f0-4dd7-b583-4e3ce58e0306")
-		)
-		(pin "3"
-			(uuid "c5d46ca2-ffd5-4820-977e-4e67148d7f8c")
-		)
-		(pin "4"
-			(uuid "74144785-b5fd-46e6-b7ba-53ad706b5b6d")
-		)
-		(pin "5"
-			(uuid "49922347-c519-4017-ac0d-05670d369917")
-		)
-		(pin "6"
-			(uuid "cc57d29b-afa2-4a66-908a-a326073d7dda")
-		)
-		(pin "7"
-			(uuid "514c659b-7b6b-40eb-9d34-b960f32a839c")
-		)
-		(pin "8"
-			(uuid "685f10b2-58ea-4e85-87d0-31ebd989e423")
-		)
-		(pin "9"
-			(uuid "f3cc96b5-252e-4f57-a6d4-f10d46bdbfce")
-		)
-		(pin "10"
-			(uuid "78d38adc-af78-49a7-9d53-d823cd4a00b6")
-		)
-		(instances
-			(project "io-16x-fused-fm"
-				(path "/bc6c0e25-ee78-4e9d-8d79-0b05f10f4229"
-					(reference "X1")
-					(unit 6)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:FerriteBead")
 		(at 544.83 121.92 270)
 		(unit 1)
@@ -28144,100 +27359,6 @@
 		)
 	)
 	(symbol
-		(lib_id "io-16x-fused-fm-eagle-import:MICROMATCH-10SMD")
-		(at 490.22 177.8 0)
-		(unit 2)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e3566946-fabd-4208-8b8c-1598a00b3a42")
-		(property "Reference" "X1"
-			(at 489.712 177.038 0)
-			(effects
-				(font
-					(size 1.524 1.2954)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "MICROMATCH-10SMD"
-			(at 490.22 176.911 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "io-16x-fused-fm:MICROMATCH-10SMD"
-			(at 490.22 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 490.22 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 490.22 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1e6e651d-b180-4e1d-8ecd-044df4af9e8f")
-		)
-		(pin "2"
-			(uuid "7b39c8f4-df49-482d-9698-5767f71787dc")
-		)
-		(pin "3"
-			(uuid "871c0a84-8f07-45a5-8d22-6cc6c59bf863")
-		)
-		(pin "4"
-			(uuid "ef32c107-795d-41b8-b709-009523053428")
-		)
-		(pin "5"
-			(uuid "c35791b2-9782-4261-b20e-2ec02cf17a5d")
-		)
-		(pin "6"
-			(uuid "635ebc97-b6ee-4bea-b135-4dccc69ca0e5")
-		)
-		(pin "7"
-			(uuid "8a292048-076b-43af-b702-df6ddbd58d4d")
-		)
-		(pin "8"
-			(uuid "4b9da95c-244b-49dd-9f98-f9ae2a479f88")
-		)
-		(pin "9"
-			(uuid "5778f8d9-5e2c-45db-80e8-1b892f56767b")
-		)
-		(pin "10"
-			(uuid "d2e003f1-e664-4c5f-884e-eaad8eba3b03")
-		)
-		(instances
-			(project "io-16x-fused-fm"
-				(path "/bc6c0e25-ee78-4e9d-8d79-0b05f10f4229"
-					(reference "X1")
-					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Power_Protection:USBLC6-4SC6")
 		(at 208.28 157.48 0)
 		(unit 1)
@@ -28871,100 +27992,6 @@
 		)
 	)
 	(symbol
-		(lib_id "io-16x-fused-fm-eagle-import:MICROMATCH-10SMD")
-		(at 490.22 195.58 0)
-		(unit 9)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f0455bfc-dc6c-4a26-836a-4a47fa3c3232")
-		(property "Reference" "X1"
-			(at 489.712 194.818 0)
-			(effects
-				(font
-					(size 1.524 1.2954)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "MICROMATCH-10SMD"
-			(at 490.22 194.691 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "io-16x-fused-fm:MICROMATCH-10SMD"
-			(at 490.22 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 490.22 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 490.22 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "96d93081-3593-4f85-9908-072f1d8f3030")
-		)
-		(pin "2"
-			(uuid "9e8dad32-16ae-43eb-8ad2-58e36b3c485e")
-		)
-		(pin "3"
-			(uuid "c705ce13-50b3-4511-a761-c82ba20567c1")
-		)
-		(pin "4"
-			(uuid "b1c60d44-3f63-4477-9fa1-050ac9e35db2")
-		)
-		(pin "5"
-			(uuid "3ce70c10-5001-4d4a-b57f-459377ca9d26")
-		)
-		(pin "6"
-			(uuid "2d385347-2599-4b53-9911-3c5a8782d1d0")
-		)
-		(pin "7"
-			(uuid "7f639955-1e59-4aee-a510-ee0878df2b92")
-		)
-		(pin "8"
-			(uuid "b1b990d9-2960-4472-a724-74f78f4a9cdd")
-		)
-		(pin "9"
-			(uuid "ddb70831-5b9e-4f32-8901-e115b3c9269c")
-		)
-		(pin "10"
-			(uuid "befc675e-4256-4bf8-910d-8bdefbc9269a")
-		)
-		(instances
-			(project "io-16x-fused-fm"
-				(path "/bc6c0e25-ee78-4e9d-8d79-0b05f10f4229"
-					(reference "X1")
-					(unit 9)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_01x06")
 		(at 556.26 485.14 270)
 		(mirror x)
@@ -29206,7 +28233,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "selfbus:PinHeader_1x04_P2.54mm_Vertical_no_silkscreen"
 			(at 408.94 487.68 0)
 			(effects
 				(font
