@@ -9834,7 +9834,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "680 500mW"
 			(at 128.27 118.8338 90)
 			(effects
 				(font
@@ -13231,7 +13231,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PTSM-0,5-4-2.5-H-THR_1x04_P2.50mm_Horizontal"
 			(at 290.83 49.53 0)
 			(effects
 				(font
@@ -15064,7 +15064,7 @@
 		(at 172.72 175.26 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board no)
 		(dnp yes)
 		(fields_autoplaced yes)

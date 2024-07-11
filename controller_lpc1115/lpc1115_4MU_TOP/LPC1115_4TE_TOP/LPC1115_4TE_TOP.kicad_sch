@@ -11976,7 +11976,7 @@
 		)
 		(uuid "aeaa22cf-fdba-49cc-b886-ec57089178a0")
 	)
-	(text "für Rohm BD9G101:\nR22=4k4, R23=680, C16=270n, D7 nicht bestücken\nfür MCP16331:\nR22=31,25k, R23=10k, C16 nicht bestücken, D7 bestücken\nfür TPS560430:\nR22=88,7k, R23=22,1k, C16 nicht bestücken, D7 nicht bestücken"
+	(text "für Rohm BD9G101:\nR22=4k4, R23=680, C16=270n, D7 nicht bestücken\nfür MCP16331:\nR22=31,25k, R23=10k, C16 nicht bestücken, D7 bestücken\nfür TPS560430:\nR22=51k, R23=22,1k, C16 nicht bestücken, D7 nicht bestücken"
 		(exclude_from_sim no)
 		(at 53.34 8.89 0)
 		(effects
@@ -15119,7 +15119,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k5"
+		(property "Value" "1k"
 			(at 316.738 48.5522 0)
 			(effects
 				(font
@@ -15275,7 +15275,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k5"
+		(property "Value" "1k"
 			(at 286.258 48.5522 0)
 			(effects
 				(font
@@ -15486,7 +15486,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k5"
+		(property "Value" "1k"
 			(at 225.298 208.5722 0)
 			(effects
 				(font
@@ -15906,7 +15906,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k5"
+		(property "Value" "1k"
 			(at 347.218 48.5522 0)
 			(effects
 				(font
@@ -17382,7 +17382,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k5"
+		(property "Value" "1k"
 			(at 271.018 48.5522 0)
 			(effects
 				(font
@@ -17887,7 +17887,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k5"
+		(property "Value" "1k"
 			(at 255.778 48.5522 0)
 			(effects
 				(font
@@ -18403,7 +18403,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k5"
+		(property "Value" "1k"
 			(at 362.458 48.5522 0)
 			(effects
 				(font
@@ -21802,7 +21802,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k5"
+		(property "Value" "1k"
 			(at 331.978 48.5522 0)
 			(effects
 				(font
@@ -22504,7 +22504,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k5"
+		(property "Value" "1k"
 			(at 243.078 208.5722 0)
 			(effects
 				(font
@@ -23003,7 +23003,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k5"
+		(property "Value" "1k"
 			(at 301.498 48.5522 0)
 			(effects
 				(font
@@ -23209,7 +23209,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "88k7"
+		(property "Value" "51k"
 			(at 151.638 33.3122 0)
 			(effects
 				(font
@@ -23751,19 +23751,21 @@
 		(fields_autoplaced yes)
 		(uuid "f0220f12-baab-42a9-82e8-3f664e5de815")
 		(property "Reference" "X1"
-			(at 180.34 193.7065 0)
+			(at 172.3741 191.6554 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "12MHz"
-			(at 180.34 197.5165 0)
+			(at 172.3741 194.7798 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Oscillator:Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm"

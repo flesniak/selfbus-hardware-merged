@@ -7955,7 +7955,7 @@
 				)
 			)
 		)
-		(property "Value" "680"
+		(property "Value" "680 500mW"
 			(at 105.41 32.4738 90)
 			(effects
 				(font
@@ -8013,25 +8013,24 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "290d3aa5-866c-4731-9dbf-5b812e0fbfcb")
 		(property "Reference" "K7"
-			(at 111.76 111.125 0)
+			(at 122.682 110.1978 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left bottom)
-				(hide yes)
+				(justify left)
 			)
 		)
-		(property "Value" "HFE20-1-024-1HD504"
-			(at 110.49 108.204 0)
+		(property "Value" "HFE20-1/24-1HSD-L2"
+			(at 122.682 113.3222 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left bottom)
-				(hide yes)
+				(justify left)
 			)
 		)
 		(property "Footprint" "selfbus:HFE20-1-L2"
@@ -8096,25 +8095,24 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "3e1575a8-86d4-4f74-b8eb-642c41911603")
 		(property "Reference" "K8"
-			(at 111.76 90.805 0)
+			(at 122.682 89.8778 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left bottom)
-				(hide yes)
+				(justify left)
 			)
 		)
-		(property "Value" "HFE20-1-024-1HD504"
-			(at 110.49 87.884 0)
+		(property "Value" "HFE20-1/24-1HSD-L2"
+			(at 122.682 93.0022 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left bottom)
-				(hide yes)
+				(justify left)
 			)
 		)
 		(property "Footprint" "selfbus:HFE20-1-L2"
@@ -8695,25 +8693,24 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "644bcc92-b7de-4f9e-93e6-305edd2a3b8a")
 		(property "Reference" "K6"
-			(at 111.76 131.445 0)
+			(at 122.682 130.5178 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left bottom)
-				(hide yes)
+				(justify left)
 			)
 		)
-		(property "Value" "HFE20-1-024-1HD504"
-			(at 110.49 128.524 0)
+		(property "Value" "HFE20-1/24-1HSD-L2"
+			(at 122.682 133.6422 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left bottom)
-				(hide yes)
+				(justify left)
 			)
 		)
 		(property "Footprint" "selfbus:HFE20-1-L2"
@@ -8984,25 +8981,24 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "7a29455f-162d-4cf0-ac76-172bb0dd0c03")
 		(property "Reference" "K3"
-			(at 218.44 89.535 0)
+			(at 229.362 88.6078 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left bottom)
-				(hide yes)
+				(justify left)
 			)
 		)
-		(property "Value" "HFE20-1-024-1HD504"
-			(at 217.17 86.614 0)
+		(property "Value" "HFE20-1/24-1HSD-L2"
+			(at 229.362 91.7322 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left bottom)
-				(hide yes)
+				(justify left)
 			)
 		)
 		(property "Footprint" "selfbus:HFE20-1-L2"
@@ -9928,25 +9924,24 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "9e44ca59-efde-4b0d-a07d-3b45993324eb")
 		(property "Reference" "K1"
-			(at 218.44 47.625 0)
+			(at 229.362 46.6978 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left bottom)
-				(hide yes)
+				(justify left)
 			)
 		)
-		(property "Value" "HFE20-1-024-1HD504"
-			(at 217.17 44.704 0)
+		(property "Value" "HFE20-1/24-1HSD-L2"
+			(at 229.362 49.8222 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left bottom)
-				(hide yes)
+				(justify left)
 			)
 		)
 		(property "Footprint" "selfbus:HFE20-1-L2"
@@ -10436,7 +10431,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "EIB_WAGO_243-211"
+		(property "Value" "WAGO-243-211"
 			(at 22.0981 176.4721 0)
 			(effects
 				(font
@@ -10885,25 +10880,24 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "d98863ab-abda-47eb-8a71-2a3078cbfe14")
 		(property "Reference" "K4"
-			(at 218.44 109.855 0)
+			(at 199.898 108.9278 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left bottom)
-				(hide yes)
+				(justify right)
 			)
 		)
-		(property "Value" "HFE20-1-024-1HD504"
-			(at 217.17 106.934 0)
+		(property "Value" "HFE20-1/24-1HSD-L2"
+			(at 199.898 112.0522 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left bottom)
-				(hide yes)
+				(justify right)
 			)
 		)
 		(property "Footprint" "selfbus:HFE20-1-L2"
@@ -10968,25 +10962,24 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "d9f89408-52d1-49d5-893a-b77f0e0a5f4f")
 		(property "Reference" "K2"
-			(at 218.44 67.945 0)
+			(at 229.362 67.0178 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left bottom)
-				(hide yes)
+				(justify left)
 			)
 		)
-		(property "Value" "HFE20-1-024-1HD504"
-			(at 217.17 65.024 0)
+		(property "Value" "HFE20-1/24-1HSD-L2"
+			(at 229.362 70.1422 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left bottom)
-				(hide yes)
+				(justify left)
 			)
 		)
 		(property "Footprint" "selfbus:HFE20-1-L2"
@@ -11189,25 +11182,24 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "f10cb07d-2023-49fd-a9e1-79ce31477a44")
 		(property "Reference" "K5"
-			(at 111.76 151.765 0)
+			(at 93.218 150.8378 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left bottom)
-				(hide yes)
+				(justify right)
 			)
 		)
-		(property "Value" "HFE20-1-024-1HD504"
-			(at 110.49 148.844 0)
+		(property "Value" "HFE20-1/24-1HSD-L2"
+			(at 93.218 153.9622 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left bottom)
-				(hide yes)
+				(justify right)
 			)
 		)
 		(property "Footprint" "selfbus:HFE20-1-L2"

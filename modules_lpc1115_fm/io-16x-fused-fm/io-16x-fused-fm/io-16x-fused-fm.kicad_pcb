@@ -1513,7 +1513,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "100"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "ccbdfd8b-ff89-412f-99f6-d61efc34af75")
@@ -3616,7 +3616,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "100"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "dce46d06-3b5b-4efb-9366-afc4e99ca1ab")
@@ -4042,7 +4042,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "100"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "cbeaaa9a-cfb3-4d69-b219-53eac284da0e")
@@ -6523,7 +6523,7 @@
 				)
 			)
 		)
-		(property "Value" "EEPROM"
+		(property "Value" "MCP24AA32 EEPROM"
 			(at 0 2.4 90)
 			(layer "F.Fab")
 			(uuid "89e7d98a-8aaf-4f00-b48d-f82df3e3502a")
@@ -6547,7 +6547,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/21709J.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6560,7 +6560,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "I2C Serial EEPROM, 2Kb, SOT-23"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6573,6 +6573,7 @@
 				)
 			)
 		)
+		(property ki_fp_filters "SOT?23*")
 		(path "/3e0f4307-d135-4b57-b05a-6d780976f9d5")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
@@ -6737,7 +6738,7 @@
 			(roundrect_rratio 0.25)
 			(net 87 "/SCL")
 			(pinfunction "SCL")
-			(pintype "bidirectional")
+			(pintype "input")
 			(uuid "29b8c04d-b6a2-4a2d-a2fe-4d74868920d9")
 		)
 		(pad "2" smd roundrect
@@ -6746,8 +6747,8 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 1 "GND")
-			(pinfunction "GND")
-			(pintype "bidirectional")
+			(pinfunction "V_{SS}")
+			(pintype "power_in")
 			(uuid "bd04b967-3dcb-4352-bdf0-09d67dc57352")
 		)
 		(pad "3" smd roundrect
@@ -6766,8 +6767,8 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net 2 "+3V3")
-			(pinfunction "VCC")
-			(pintype "bidirectional")
+			(pinfunction "V_{CC}")
+			(pintype "power_in")
 			(uuid "318dec9c-d32f-4c30-8b2d-46990952c002")
 		)
 		(pad "5" smd roundrect
@@ -6777,7 +6778,7 @@
 			(roundrect_rratio 0.25)
 			(net 1 "GND")
 			(pinfunction "WP")
-			(pintype "bidirectional")
+			(pintype "input")
 			(uuid "0fad2117-cde4-4742-a5cd-5df4e1897d90")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl"
@@ -7830,7 +7831,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "100"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "f7b6d99a-a23b-4ebe-87be-89e07d053295")
@@ -14332,7 +14333,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "100"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "9ccb48f8-4571-487d-be89-e8bc571f41c8")
@@ -19188,7 +19189,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "100"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "a0615766-5cc1-4f97-885f-6a372cb2bb24")
@@ -21473,7 +21474,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "100"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "6fd1ec37-3226-44ae-9c2a-4cd2a9e83bf7")
@@ -23298,7 +23299,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "100"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "992626d4-b82b-42d9-92bc-48c795f3db02")
@@ -23782,7 +23783,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "100"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "dddb608c-74cc-4cfb-b641-521531b27d80")
@@ -24439,7 +24440,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "100"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "e3c075be-a043-4e72-b8ee-0cc7ddacd168")
@@ -25178,7 +25179,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "100"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "dd354117-0052-4906-86c6-1f98979ac707")
@@ -25397,7 +25398,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "100"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "6cf46842-23cf-407f-93b3-b1e7a74946d1")
@@ -30007,7 +30008,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "100"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "bfd2abe9-f086-4768-977e-fcd5d5df42f0")
@@ -30965,7 +30966,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "100"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "023caec4-305f-4add-9d88-8d30815cbe6f")
@@ -31704,7 +31705,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "100"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "ea8a31cc-b085-45e3-9e6b-c8a47a7aaa64")
@@ -35957,7 +35958,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "100"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "0b5d204d-1abd-4e9f-86ed-a165dfedd435")
