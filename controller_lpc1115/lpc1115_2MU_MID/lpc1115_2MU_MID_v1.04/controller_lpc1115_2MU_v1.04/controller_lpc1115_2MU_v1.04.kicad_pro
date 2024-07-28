@@ -608,6 +608,10 @@
       {
         "netclass": "supply",
         "pattern": "VCC"
+      },
+      {
+        "netclass": "supply",
+        "pattern": "/EIB_DC"
       }
     ]
   },
@@ -616,7 +620,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber_v2.0/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
