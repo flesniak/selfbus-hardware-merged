@@ -174,8 +174,8 @@
 	(net 53 "VDD")
 	(net 54 "unconnected-(K1-Pad12)")
 	(net 55 "unconnected-(K2-Pad12)")
-	(net 56 "unconnected-(K1-Pad12)_0")
-	(net 57 "unconnected-(K2-Pad12)_0")
+	(net 56 "unconnected-(K1-Pad12)_1")
+	(net 57 "unconnected-(K2-Pad12)_1")
 	(net 58 "Net-(TVS1-I{slash}O2)")
 	(net 59 "Net-(TVS1-I{slash}O3)")
 	(footprint "selfbus:HFE20-GENERIC-COMBO"
@@ -442,7 +442,7 @@
 			(drill 1.3)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 57 "unconnected-(K2-Pad12)_0")
+			(net 57 "unconnected-(K2-Pad12)_1")
 			(pintype "passive+no_connect")
 			(solder_mask_margin 0.0508)
 			(thermal_bridge_angle 0)
@@ -2330,7 +2330,7 @@
 		(path "/8c6bf31a-1805-4588-946c-d68a5e172b29")
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -2844,7 +2844,7 @@
 		(path "/2eb56179-e4ec-44e0-ad9e-ebe66f9b7681")
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start 1.75 -1.11)
 			(end -2.66 -1.11)
@@ -3352,7 +3352,7 @@
 		(path "/389717df-1bf6-4f7c-913c-e79de033c34e")
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -3893,7 +3893,7 @@
 		(path "/2e1a9a76-5adc-4bac-b7b9-8043fa5fb5a1")
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -4221,7 +4221,7 @@
 		(path "/f7c33caa-d339-4ea6-97c1-d93a4032554f")
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -5955,7 +5955,7 @@
 		(path "/d544f5c9-4c6a-4976-9fbf-a8a1f1207206")
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -6476,7 +6476,7 @@
 			(drill 1.3)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 56 "unconnected-(K1-Pad12)_0")
+			(net 56 "unconnected-(K1-Pad12)_1")
 			(pintype "passive+no_connect")
 			(solder_mask_margin 0.0508)
 			(thermal_bridge_angle 0)
@@ -6840,7 +6840,7 @@
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.4 -1)
 			(end 1.4 1)
@@ -7011,7 +7011,7 @@
 		(path "/efe6a6d3-77c5-4c6e-9987-de69f081a2e7")
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -7126,7 +7126,7 @@
 		(path "/ff6177c9-0715-4e61-a289-5482fc442bf0")
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -7667,7 +7667,7 @@
 		(path "/f168df6d-2ae0-4d87-b5ac-8e2ab369f012")
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -8013,7 +8013,7 @@
 				)
 			)
 		)
-		(property "Value" "680 500mW"
+		(property "Value" "470 500mW"
 			(at 0 1.82 90)
 			(layer "F.Fab")
 			(uuid "df28bc0f-648f-4322-ad7f-8dbc4dc0fe6e")
@@ -8544,7 +8544,7 @@
 		(path "/5a19b218-ce2e-4c26-b778-c5b9cbc0fccd")
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -8659,7 +8659,7 @@
 		(path "/1b7d8205-3fae-4729-854f-9c89a06007df")
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -9890,7 +9890,7 @@
 		(path "/00d15a5b-0cc7-4e78-9c8a-0dba6fe73dd1")
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -12842,7 +12842,7 @@
 		(path "/e9688f2f-492b-4c28-8914-86e216fb028e")
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -14544,7 +14544,7 @@
 		(path "/b8d541f8-62a6-420d-b49c-f12bf2082ad2")
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.95)
@@ -14875,7 +14875,7 @@
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.4 -1)
 			(end 1.4 1)
@@ -15049,7 +15049,7 @@
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.4 -1)
 			(end 1.4 1)
@@ -15739,7 +15739,7 @@
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.4 1)
 			(end -1.4 -1)
@@ -16306,7 +16306,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C4"
-			(at -2.667 0 360)
+			(at -2.667 0 0)
 			(layer "B.SilkS")
 			(uuid "c883f2d0-f3e4-4652-be40-59b17af10607")
 			(effects
@@ -16318,7 +16318,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 -1.68 360)
+			(at 0 -1.68 0)
 			(layer "B.Fab")
 			(uuid "25578073-b11a-4976-95b4-b040f6b68a2a")
 			(effects
@@ -16474,7 +16474,7 @@
 			(uuid "ee2fb396-f88f-4111-8184-44f807bcaaa1")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0.225 360)
+			(at 0 0.225 0)
 			(layer "B.Fab")
 			(uuid "dc2bdb81-5b82-4260-b203-914389ecf305")
 			(effects
@@ -17483,7 +17483,7 @@
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.4 1)
 			(end -1.4 -1)
@@ -17657,7 +17657,7 @@
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.4 1)
 			(end -1.4 -1)
@@ -17831,7 +17831,7 @@
 		(sheetname "Stammblatt")
 		(sheetfile "4in-2out_1.0.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.4 -1)
 			(end 1.4 1)
