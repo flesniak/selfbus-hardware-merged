@@ -27810,7 +27810,7 @@
 		(path "/163fcb47-98b8-41a0-84a3-a840bb6eaa0d")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -32471,7 +32471,7 @@
 		(path "/22c9e7bf-df3f-4b38-8ac9-f426695bf3c1")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -32811,7 +32811,7 @@
 		(path "/621edde5-77c4-4f03-b2f7-4b8748ba0733")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -32932,7 +32932,7 @@
 		(path "/042e2fe3-9cdc-424d-8412-5200410249ac")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -33053,7 +33053,7 @@
 		(path "/5a2195cb-6366-4455-8ae0-3a52b6521dca")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -35156,7 +35156,7 @@
 		(path "/e03ce810-9096-4210-be81-22dc9e19ab58")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
