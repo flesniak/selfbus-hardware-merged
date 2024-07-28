@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "app_out_8x_16A_bistab_4MU_BOT_v2.0.0")(type "KiCad")(uri "$(KIPRJMOD)/app_out_8x_16A_bistab_4MU_BOT_v2.0.0.pretty")(options "")(descr ""))
+)
