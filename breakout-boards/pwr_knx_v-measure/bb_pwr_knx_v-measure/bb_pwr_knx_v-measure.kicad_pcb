@@ -1722,7 +1722,7 @@
 				)
 			)
 		)
-		(property "Value" "15n"
+		(property "Value" "100n"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "3c2df1ba-bb3f-465f-9a3c-2f7f82c01dbe")

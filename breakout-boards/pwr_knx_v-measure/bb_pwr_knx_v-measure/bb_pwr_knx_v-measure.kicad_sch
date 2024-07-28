@@ -4899,7 +4899,7 @@
 		)
 		(uuid "1163c0d8-3558-47cf-9422-a1a48eac8c7c")
 	)
-	(text "für Rohm BD9G101:\nR22=4k4, R23=680, C16=270n, D7 nicht bestücken\nfür MCP16331:\nR22=31,25k, R23=10k, C16 nicht bestücken, D7 bestücken\nfür TPS560430:\nR22=51k, R23=22,1k, C16 nicht bestücken, D7 nicht bestücken"
+	(text "für Rohm BD9G101:\nR22=4k4, R23=680, C16=270n, D7 nicht bestücken\nfür MCP16331:\nR22=31,25k, R23=10k, C16 nicht bestücken, D7 bestücken\nfür TPS560430:\nR22=51k, R23=22,1k, C16 nicht bestücken, D7 nicht bestücken, C9=100n"
 		(exclude_from_sim no)
 		(at 38.354 18.288 0)
 		(effects
@@ -7582,15 +7582,15 @@
 		(fields_autoplaced yes)
 		(uuid "7dbaf131-0f80-49d1-b86b-9996e8aaa132")
 		(property "Reference" "C9"
-			(at 80.01 35.56 90)
+			(at 80.01 37.0964 90)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
 			)
 		)
-		(property "Value" "15n"
-			(at 80.01 39.37 90)
+		(property "Value" "100n"
+			(at 80.01 40.2208 90)
 			(effects
 				(font
 					(size 1.778 1.5113)
