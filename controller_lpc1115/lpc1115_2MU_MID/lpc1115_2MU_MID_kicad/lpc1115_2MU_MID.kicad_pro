@@ -560,7 +560,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "controller_lpc1115_2MU_v1.04.kicad_pro",
+    "filename": "lpc1115_2MU_MID.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -640,7 +640,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "controller_lpc1115_2MU_v1.04.csv",
+    "bom_export_filename": "lpc1115_2MU_MID.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",

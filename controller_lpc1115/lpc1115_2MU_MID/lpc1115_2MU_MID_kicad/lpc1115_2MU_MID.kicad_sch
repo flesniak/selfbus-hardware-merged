@@ -4378,7 +4378,7 @@
 				)
 			)
 		)
-		(symbol "controller_lpc1115_2MU_v1.04-eagle-import:DINA4_L"
+		(symbol "lpc1115_2MU_MID-eagle-import:DINA4_L"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -12066,7 +12066,7 @@
 			(uuid "709ca8d6-cc64-4d66-98f8-01583bfb5055")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C6")
 					(unit 1)
@@ -12136,7 +12136,7 @@
 			(uuid "bd540585-49cf-4943-89d3-3339e738ad28")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R10")
 					(unit 1)
@@ -12202,7 +12202,7 @@
 			(uuid "3d1a1918-7502-443e-a5e2-7bd764adc349")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND09")
 					(unit 1)
@@ -12275,7 +12275,7 @@
 			(uuid "0b7b2c7a-35e6-4736-92e8-76d27ac58d99")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "Q1")
 					(unit 1)
@@ -12346,7 +12346,7 @@
 			(uuid "2f265226-522c-4d8d-93b6-fc0e61e4efa4")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C10")
 					(unit 1)
@@ -12413,7 +12413,7 @@
 			(uuid "f202fe24-d55e-4cd2-8b04-ed83cdb9ac89")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#P+01")
 					(unit 1)
@@ -12480,7 +12480,7 @@
 			(uuid "ffac6633-fe58-4ef4-b01e-0177d9e97526")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND016")
 					(unit 1)
@@ -12548,7 +12548,7 @@
 			(uuid "9836417c-dde2-4924-b958-9f8330d29a73")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C1")
 					(unit 1)
@@ -12615,7 +12615,7 @@
 			(uuid "25b64b0f-1d53-455a-95aa-46e30b9f9a55")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "TP2")
 					(unit 1)
@@ -12683,7 +12683,7 @@
 			(uuid "4f8cb5cd-69ac-4b86-bbef-8ce1293ca55b")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C17")
 					(unit 1)
@@ -12749,7 +12749,7 @@
 			(uuid "e6977618-3787-4532-8737-41b76d8147d1")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND02")
 					(unit 1)
@@ -12817,7 +12817,7 @@
 			(uuid "cdfebfe1-ad20-49d5-a8a2-257f012d5bc7")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R12")
 					(unit 1)
@@ -12883,7 +12883,7 @@
 			(uuid "127fbd97-e34b-4853-8300-4d8a70b022b2")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND018")
 					(unit 1)
@@ -12953,7 +12953,7 @@
 			(uuid "a15d17d0-7b8b-41af-a906-9a392ff27b30")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R6")
 					(unit 1)
@@ -13021,7 +13021,7 @@
 			(uuid "5317dd93-07bd-49db-8057-557d1e6fb63e")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R13")
 					(unit 1)
@@ -13229,7 +13229,7 @@
 			(uuid "20fcd969-6ce8-4270-b130-7cfa2dd053d4")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "U1")
 					(unit 1)
@@ -13295,7 +13295,7 @@
 			(uuid "b0e7bad7-fe05-442d-856d-b43f0631b2b1")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#PWR0101")
 					(unit 1)
@@ -13365,7 +13365,7 @@
 			(uuid "eb13cad4-c6bf-4aa9-b7fc-966079398c49")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R11")
 					(unit 1)
@@ -13431,7 +13431,7 @@
 			(uuid "d21b317d-4349-4db1-8f28-e58842fa0212")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND024")
 					(unit 1)
@@ -13498,7 +13498,7 @@
 			(uuid "7b97cae3-28c3-4420-b42d-f746694ff296")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#PWR0103")
 					(unit 1)
@@ -13564,7 +13564,7 @@
 			(uuid "76444f94-b164-4e60-adaa-03013e436108")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#P+05")
 					(unit 1)
@@ -13635,7 +13635,7 @@
 			(uuid "9829c2f7-3c27-402b-83a6-50d9ab4fb4dc")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R3")
 					(unit 1)
@@ -13705,7 +13705,7 @@
 			(uuid "617ee398-917a-4c3d-ba46-44ce8a46b83b")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R8")
 					(unit 1)
@@ -13776,7 +13776,7 @@
 			(uuid "cf5ea521-fd40-4a4a-909c-3838b4f2648d")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C7")
 					(unit 1)
@@ -13847,7 +13847,7 @@
 			(uuid "d8d70a75-aa92-470a-b0e7-5c2e466c248e")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C16")
 					(unit 1)
@@ -13917,7 +13917,7 @@
 			(uuid "f5a037cd-ed94-4f71-af92-a318dd0893ae")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C15")
 					(unit 1)
@@ -13987,7 +13987,7 @@
 			(uuid "4a36887f-a68c-4080-aced-f19b7ca339ec")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R16")
 					(unit 1)
@@ -14054,7 +14054,7 @@
 			(uuid "ce3bbcc8-37bd-4e80-968e-a0dad966958d")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "TP1")
 					(unit 1)
@@ -14120,7 +14120,7 @@
 			(uuid "0c066a08-e16c-4c7f-905d-b8c229360fa3")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND03")
 					(unit 1)
@@ -14187,7 +14187,7 @@
 			(uuid "7ff1b87f-98d0-4a5d-8e1f-0bbb4696e2c9")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#P+02")
 					(unit 1)
@@ -14257,7 +14257,7 @@
 			(uuid "379c9b58-3be4-48bd-a620-54f230ed7e7c")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R21")
 					(unit 1)
@@ -14323,7 +14323,7 @@
 			(uuid "0812eb51-2edf-4b5b-bef2-40da9ccde91c")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND010")
 					(unit 1)
@@ -14389,7 +14389,7 @@
 			(uuid "d147fff6-403b-4551-a7d0-dae396dd106f")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND04")
 					(unit 1)
@@ -14456,7 +14456,7 @@
 			(uuid "0c37382d-08df-49ab-988a-fa75e29b8e23")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND01")
 					(unit 1)
@@ -14526,7 +14526,7 @@
 			(uuid "323afb36-dcf2-491a-833d-35f509ea5ece")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "D1")
 					(unit 1)
@@ -14592,7 +14592,7 @@
 			(uuid "3b37d650-965e-4789-b0d2-02cd8985a3c5")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#PWR0106")
 					(unit 1)
@@ -14658,7 +14658,7 @@
 			(uuid "bd5eff32-6814-4c7e-8673-8b774511c3c1")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND08")
 					(unit 1)
@@ -14728,7 +14728,7 @@
 			(uuid "50abe2eb-218a-4f10-8441-66f1cc2121a7")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R24")
 					(unit 1)
@@ -14798,7 +14798,7 @@
 			(uuid "317793b3-44a2-4fcb-bbe1-80effa997683")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C5")
 					(unit 1)
@@ -14865,7 +14865,7 @@
 			(uuid "0f5465f8-68a3-4e4f-9e67-399a0f2d3a34")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "TP5")
 					(unit 1)
@@ -14874,7 +14874,7 @@
 		)
 	)
 	(symbol
-		(lib_id "controller_lpc1115_2MU_v1.04-eagle-import:DINA4_L")
+		(lib_id "lpc1115_2MU_MID-eagle-import:DINA4_L")
 		(at 167.64 259.08 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -14928,7 +14928,7 @@
 			)
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#FRAME1")
 					(unit 2)
@@ -15020,7 +15020,7 @@
 			(uuid "e6793d12-4ac1-40b8-9db8-b2a6779b756c")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "J3")
 					(unit 1)
@@ -15087,7 +15087,7 @@
 			(uuid "8105e103-ef08-4f1d-95e8-044c1d8bb7b5")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "TP3")
 					(unit 1)
@@ -15168,7 +15168,7 @@
 			(uuid "752e28dd-9698-42a7-b199-e9a2236128a6")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "U2")
 					(unit 1)
@@ -15235,7 +15235,7 @@
 			(uuid "82669d41-dfcb-4ae4-996f-34d58e96968f")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#P+011")
 					(unit 1)
@@ -15305,7 +15305,7 @@
 			(uuid "ffd28343-29f3-44e3-8d6f-2c7daacfccb3")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C18")
 					(unit 1)
@@ -15375,7 +15375,7 @@
 			(uuid "c359351a-291a-42e7-ade2-9de7ae3ad91f")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R22")
 					(unit 1)
@@ -15452,7 +15452,7 @@
 			(uuid "511f70a0-c1b0-4c58-9e96-6df6cee82298")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "Q3")
 					(unit 1)
@@ -15518,7 +15518,7 @@
 			(uuid "5657222d-fc60-4097-a044-d20b6051a867")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#P+07")
 					(unit 1)
@@ -15588,7 +15588,7 @@
 			(uuid "88e3368e-6033-48f6-ac7a-3dc507433b5b")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R19")
 					(unit 1)
@@ -15654,7 +15654,7 @@
 			(uuid "38c59614-2e9d-46db-957b-2a7be8a7050b")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND011")
 					(unit 1)
@@ -15725,7 +15725,7 @@
 			(uuid "c7076804-c1bb-4a05-ac61-df80e396fa97")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C12")
 					(unit 1)
@@ -15811,7 +15811,7 @@
 			(uuid "57c2f7f8-a905-4336-8b5d-3a40889b8d80")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "D3")
 					(unit 1)
@@ -15877,7 +15877,7 @@
 			(uuid "2fbd2884-7730-437c-8393-85135bc50f57")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND05")
 					(unit 1)
@@ -15943,7 +15943,7 @@
 			(uuid "e9b4e556-e76a-46e4-9c8b-056b7f623ca2")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND06")
 					(unit 1)
@@ -16013,7 +16013,7 @@
 			(uuid "47de80c2-4f6a-46c6-af3d-5b56b7f4ba6c")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C3")
 					(unit 1)
@@ -16105,7 +16105,7 @@
 			(uuid "c0e7dbd5-dcc2-472e-96f5-e06c16afaac9")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "J1")
 					(unit 1)
@@ -16174,7 +16174,7 @@
 			(uuid "837390aa-b7f5-4a06-a23a-222f637c37af")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R23")
 					(unit 1)
@@ -16244,7 +16244,7 @@
 			(uuid "6c0f2eaa-8793-415d-91b5-3cb0f301b999")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C11")
 					(unit 1)
@@ -16314,7 +16314,7 @@
 			(uuid "c8882dd5-8f55-4c18-b6f5-0b0b4910be98")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "SW1")
 					(unit 1)
@@ -16381,7 +16381,7 @@
 			(uuid "65c1c6e9-3ae0-46ad-94d8-9a45c89bf547")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "TP7")
 					(unit 1)
@@ -16466,7 +16466,7 @@
 			(uuid "9964d26f-db30-4d98-a312-1e211ed0d500")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "J2")
 					(unit 1)
@@ -16534,7 +16534,7 @@
 			(uuid "9e529f8f-8748-4e8a-9685-5954775dd50c")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C4")
 					(unit 1)
@@ -16604,7 +16604,7 @@
 			(uuid "9b6035cb-6202-4223-a44e-6be216092fcd")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R20")
 					(unit 1)
@@ -16681,7 +16681,7 @@
 			(uuid "afd2018b-d4c8-4534-9e00-a26083d7b3a0")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "Q2")
 					(unit 1)
@@ -16769,7 +16769,7 @@
 			(uuid "5607733e-f2e3-4bd2-915f-4bc01b1e897e")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "D6")
 					(unit 1)
@@ -16836,7 +16836,7 @@
 			(uuid "46a09844-ea9d-4c15-812b-e6b912b776b8")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND07")
 					(unit 1)
@@ -16922,7 +16922,7 @@
 			(uuid "07cdc82c-8aaf-4f11-a2a0-a9877aab9b4d")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "D2")
 					(unit 1)
@@ -16992,7 +16992,7 @@
 			(uuid "029e8454-4d32-412a-b1c6-52bf234b928f")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C20")
 					(unit 1)
@@ -17058,7 +17058,7 @@
 			(uuid "85aa9eb8-5cc4-4d92-a10d-97865725cbb1")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#P+012")
 					(unit 1)
@@ -17128,7 +17128,7 @@
 			(uuid "416ef62e-8adb-4e28-8309-4dd0e82201db")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R18")
 					(unit 1)
@@ -17196,7 +17196,7 @@
 			(uuid "d47ab755-0301-4c6e-8dc9-15fe50cd6c67")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R15")
 					(unit 1)
@@ -17263,7 +17263,7 @@
 			(uuid "6113feb7-e215-478f-8f2a-873659090b45")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "TP4")
 					(unit 1)
@@ -17329,7 +17329,7 @@
 			(uuid "f844960e-12eb-46a7-9560-c1ae83c4229f")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND017")
 					(unit 1)
@@ -17395,7 +17395,7 @@
 			(uuid "845586db-c200-48cb-a957-c074f03806d9")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#FLG03")
 					(unit 1)
@@ -17466,7 +17466,7 @@
 			(uuid "476f3119-fab3-43c0-8e50-93de857e71ff")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "D10")
 					(unit 1)
@@ -17536,7 +17536,7 @@
 			(uuid "e5d876c5-81d1-4687-9a77-5ecb0d5246d2")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C9")
 					(unit 1)
@@ -17603,7 +17603,7 @@
 			(uuid "ad6b0439-56b0-46e7-b298-582f494709dc")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#PWR0104")
 					(unit 1)
@@ -17669,7 +17669,7 @@
 			(uuid "bb20e0be-af26-412d-928d-d962890a3d7a")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND025")
 					(unit 1)
@@ -17735,7 +17735,7 @@
 			(uuid "b3e4a244-9b78-4ab6-9642-a31ce88b63f9")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND012")
 					(unit 1)
@@ -17801,7 +17801,7 @@
 			(uuid "26828060-4a54-4fcd-9cce-a3cef3904738")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#PWR0102")
 					(unit 1)
@@ -17867,7 +17867,7 @@
 			(uuid "bc6f338d-0973-422b-bec8-996bb14fdb2e")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND014")
 					(unit 1)
@@ -17937,7 +17937,7 @@
 			(uuid "df5bcb7f-36e9-4d68-95df-b1bd4df420c9")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R9")
 					(unit 1)
@@ -18007,7 +18007,7 @@
 			(uuid "db4119c5-cb2b-453e-989b-8722f9065530")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R17")
 					(unit 1)
@@ -18074,7 +18074,7 @@
 			(uuid "e47269d4-0edd-49a7-9588-9960672f5fb0")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND013")
 					(unit 1)
@@ -18142,7 +18142,7 @@
 			(uuid "c9f75ff8-29f0-404a-bf2c-2959a4029234")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "L2")
 					(unit 1)
@@ -18209,7 +18209,7 @@
 			(uuid "a6484c5d-6eef-4ef0-bb84-5bc4d1bcbff3")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#PWR0105")
 					(unit 1)
@@ -18279,7 +18279,7 @@
 			(uuid "4ce30568-080f-4c36-ac71-cd6a740bc62f")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C8")
 					(unit 1)
@@ -18349,7 +18349,7 @@
 			(uuid "a220447d-8d4d-4dad-80d9-faf2b8a42417")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R4")
 					(unit 1)
@@ -18415,7 +18415,7 @@
 			(uuid "1d575d6d-6b28-48e5-bc5c-179b18ed4fdf")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#FLG01")
 					(unit 1)
@@ -18481,7 +18481,7 @@
 			(uuid "ac276ac0-28fb-4ef0-8ee3-bfa55194e9c5")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#GND020")
 					(unit 1)
@@ -18547,7 +18547,7 @@
 			(uuid "fffd8a53-e462-4d68-ae85-4a99c1cb3536")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#FLG02")
 					(unit 1)
@@ -18613,7 +18613,7 @@
 			(uuid "6f5fff31-6f32-4f1c-8a79-c20f56bf48d6")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#P+09")
 					(unit 1)
@@ -18681,7 +18681,7 @@
 			(uuid "9978b9e6-58fe-4a26-9fd4-ff6aca8fe01f")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R14")
 					(unit 1)
@@ -18749,7 +18749,7 @@
 			(uuid "8a95311e-c6cf-42fc-ab99-1baf6400acd6")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "D4")
 					(unit 1)
@@ -18816,7 +18816,7 @@
 			(uuid "6c957a28-7b98-42fd-b9e3-f5975c469610")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#P+04")
 					(unit 1)
@@ -18882,7 +18882,7 @@
 			(uuid "acacd3eb-f09b-44ac-8ef0-1c09c9d6edaf")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "#P+03")
 					(unit 1)
@@ -18956,7 +18956,7 @@
 			(uuid "05dcbd21-fa93-4037-a4d1-352711870dd1")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "X1")
 					(unit 1)
@@ -19026,7 +19026,7 @@
 			(uuid "95bd6274-8e51-468a-97f1-e8924c18d215")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C13")
 					(unit 1)
@@ -19093,7 +19093,7 @@
 			(uuid "73e6b863-e523-42d5-ac6b-aa81a1e069b1")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "TP6")
 					(unit 1)
@@ -19164,7 +19164,7 @@
 			(uuid "48434201-b285-42e1-8de0-6c98332dc328")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R2")
 					(unit 1)
@@ -19233,7 +19233,7 @@
 			(uuid "3eccff5a-0ff2-4fc5-b65f-a7a116c8df14")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R1")
 					(unit 1)
@@ -19319,7 +19319,7 @@
 			(uuid "f7371784-bb6c-4d5c-b3c2-bc8b939b955a")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "D7")
 					(unit 1)
@@ -19389,7 +19389,7 @@
 			(uuid "ee5c8365-40d6-42f4-83e9-6b217a9770f7")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "C2")
 					(unit 1)
@@ -19457,7 +19457,7 @@
 			(uuid "803962cb-71f9-4688-b5df-d7cbe3fbcf15")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "L1")
 					(unit 1)
@@ -19527,7 +19527,7 @@
 			(uuid "5941bc16-2fff-4c82-827a-416022f1f8c6")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R5")
 					(unit 1)
@@ -19597,7 +19597,7 @@
 			(uuid "52fea6f3-c13c-4fcc-b1fb-6f0b9ebcf29c")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "D5")
 					(unit 1)
@@ -19667,7 +19667,7 @@
 			(uuid "9990b14b-9f80-4a8e-832a-51802ec72c12")
 		)
 		(instances
-			(project "controller_lpc1115_2MU_v1.04"
+			(project "lpc1115_2MU_MID"
 				(path "/60be9403-0258-4972-a31b-1601aa9cd87c"
 					(reference "R7")
 					(unit 1)

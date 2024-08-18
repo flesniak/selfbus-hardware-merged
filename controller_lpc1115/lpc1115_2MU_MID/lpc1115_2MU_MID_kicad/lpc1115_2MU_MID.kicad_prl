@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 31,
     "active_layer_preset": "Alle Lagen ohne Fab",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -73,7 +73,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "controller_lpc1115_2MU_v1.04.kicad_prl",
+    "filename": "lpc1115_2MU_MID.kicad_prl",
     "version": 3
   },
   "project": {

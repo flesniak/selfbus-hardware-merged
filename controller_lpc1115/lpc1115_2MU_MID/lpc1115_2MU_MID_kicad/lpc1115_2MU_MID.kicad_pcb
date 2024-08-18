@@ -217,7 +217,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/02f60acf-8beb-4165-9dae-cb0a61fa6c4e")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -430,7 +430,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/90978bab-1c4e-4d90-a588-8ae697ef0b11")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -643,7 +643,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/8c0c6d54-66b2-4755-9533-a37b2064548c")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -758,7 +758,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/a4eeba81-f21d-4cd9-b997-49a42466ca5e")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -873,7 +873,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/5c8a2cab-d793-4fc7-8a3f-fa2bb945bd3c")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -1086,7 +1086,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/8d824133-efb4-4db8-983f-a0c63de82b87")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -1419,7 +1419,7 @@
 		(property ki_fp_filters "SW*Omron*B3FS*")
 		(path "/8a495588-5d6a-4ff0-ac49-b91f9873ca76")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -5.1 -3.3)
@@ -1781,7 +1781,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d38b5824-6ae7-4496-a7ec-5e47e88f31fe")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -1994,7 +1994,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/76436c53-9ce6-4bac-b37b-9bb4bbc7315c")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -1.56)
@@ -2291,7 +2291,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/018ab511-68d4-43dd-90ce-a033468fe3fc")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -2504,7 +2504,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7dd40a71-7f6f-4bc4-81d2-d5f268589903")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -2716,7 +2716,7 @@
 		)
 		(path "/0ac97354-1e90-415d-9de6-2ddd673afd0f")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.85 -3.41)
@@ -2993,7 +2993,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f6e56332-48a1-45fd-aff9-237d01cba692")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -3206,7 +3206,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/6e533ff6-21bf-44a1-98bc-b59be26919f7")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.41 -3.41)
@@ -3650,7 +3650,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/35cb36ec-7e5d-4106-9f59-7d4be9dfde92")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -3889,7 +3889,7 @@
 		(property ki_fp_filters "D*SOD?123*")
 		(path "/7fb2816b-c8c3-4bf0-aa0c-cff92b007267")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 1)
@@ -4210,7 +4210,7 @@
 		(property ki_fp_filters "D*SOD?123*")
 		(path "/9a5b3b5c-9af8-4b7c-9044-e60d0cc35f1b")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 1)
@@ -4505,7 +4505,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7ef39bfa-9848-40d6-aa64-0b5a8d427d9e")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -4718,7 +4718,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/e8dd3279-8a7a-4028-a53e-eaebb48cf57b")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -4934,7 +4934,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/cc39638b-7c75-4e97-8e9b-7445c0a20e86")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(fp_line
 			(start 5.2 15.3)
 			(end -5.2 15.3)
@@ -5176,7 +5176,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ff7f8ac0-a1a3-402c-ad4f-43cb4e51f5c4")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -5389,7 +5389,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1ec87c5b-5e2f-4ee8-bdfc-ee9f67401ab9")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -5602,7 +5602,7 @@
 		(property ki_fp_filters "Oscillator*SMD*SeikoEpson*SG210*2.5x2.0mm*")
 		(path "/e6c92ee4-3cb8-4826-9f30-c0da54632cb4")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_circle
 			(center 0 0)
@@ -5887,7 +5887,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/f88871dd-23d3-4fe3-a8a8-b751361794fc")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.386252 -1.71)
@@ -6102,7 +6102,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/67ceacc1-3742-4c60-8552-6c4f98e4de2f")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.66 -1.11)
@@ -6397,7 +6397,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e3af0128-c718-4a9e-8010-defe459ae3d3")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -6610,7 +6610,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d7a0ed46-a532-4492-831b-b73d94352186")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -6823,7 +6823,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/701a63bd-8912-4805-92e2-d86d0c1433ec")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -6938,7 +6938,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/43796b07-7f33-471f-837d-adac3ca45488")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -7151,7 +7151,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/53f92038-4d3a-4360-aefc-bddee0f41048")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -7266,7 +7266,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/843bd231-9231-45e0-bec7-49c16d33ffba")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -4.4375 -1.8475)
@@ -7710,7 +7710,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/e484556d-da5d-49c7-a016-ca0dd7504f28")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.685 0.96)
@@ -7945,7 +7945,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/39aa968e-b583-4f93-97a4-4b0b2377ca98")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -8158,7 +8158,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c5509502-c510-427c-84a1-e412d2824db3")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -8371,7 +8371,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8971c21f-31d8-44ad-864a-cb342fe1d056")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -8584,7 +8584,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/75d9a669-c502-4c70-9a2c-2e69c0c5717c")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -8699,7 +8699,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/7cf5ca69-7143-40ef-bfec-ea3091578761")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -1.56)
@@ -8966,7 +8966,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/20b4547c-a125-4630-8f2d-541702c7dab6")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -9179,7 +9179,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c867521d-5ced-42c5-92af-f981078a205b")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -9392,7 +9392,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9c593857-7e03-46f9-861c-2914aa276321")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -9605,7 +9605,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/79740f99-ade3-4510-8fef-deaa599d66e4")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -9818,7 +9818,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/933e80f2-95bf-4906-b227-14f01ccd52ac")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -1.56)
@@ -10085,7 +10085,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/1a454db2-9cc4-4a12-b009-5046836b2423")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -10298,7 +10298,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/18cd96fc-fd42-498b-8b62-bb4f3a9f49f9")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -10511,7 +10511,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/ec81bf6c-8a81-4bea-98fd-9fdb1c497130")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -10626,7 +10626,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b305f02e-c5c7-4080-9348-cf1fd1900304")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -10839,7 +10839,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/52d24a88-6cc9-4f1b-bab3-1bc5b08b1a2f")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -11052,7 +11052,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/1971223c-153c-4815-8958-0d7ae713e365")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -11172,7 +11172,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8f3fc2cb-f7ea-4b60-8fc3-7ff0d90c71a6")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.261252 0.735)
@@ -11391,7 +11391,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/736b3509-e0f3-41c4-984a-ab04cb75dec3")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.06 1.06)
@@ -11772,7 +11772,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/ab08e391-0d9b-4492-8d0b-dae87d406a52")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.66 -1.11)
@@ -12073,7 +12073,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/52353eb5-5415-4086-bc1a-b9d1b05a461d")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.711252 -0.91)
@@ -12292,7 +12292,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/88957860-f159-43da-b5ba-c51d7ae22cd4")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.227064 0.735)
@@ -12511,7 +12511,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6cf771bb-ba24-44b8-913c-c3a3084d740e")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.177064 1.71)
@@ -12730,7 +12730,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f0a71fca-ccc4-457e-a79e-b6c288000980")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.227064 0.735)
@@ -12949,7 +12949,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a1579dd0-b105-40a5-b02b-e0c08fbcea80")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.227064 0.735)
@@ -13168,7 +13168,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9ff6588b-c09b-45be-a4ab-ea97b77a8476")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.227064 -0.735)
@@ -13387,7 +13387,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/492eb527-fb99-4774-9d02-691d4f4d65c3")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.261252 -0.735)
@@ -13606,7 +13606,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2929996a-e021-4189-9962-1ddfb58e3a59")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start 0.227064 -0.735)
@@ -13825,7 +13825,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f108091b-dad4-4939-af15-504d2bc62981")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.227064 0.735)
@@ -14044,7 +14044,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/799ee4c4-f865-41cc-a310-c9bbfbe8e529")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.227064 -0.735)
@@ -14263,7 +14263,7 @@
 		(property ki_fp_filters "*QFP*7x7mm*P0.5mm*")
 		(path "/30407109-d691-43c8-b333-cb3080a0eb2f")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.61 -3.61)
@@ -15254,7 +15254,7 @@
 		(property ki_fp_filters "D*SOD?123*")
 		(path "/f5f65a2c-ea62-4341-80ff-bebdb006f748")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -2.36 -1)
@@ -15583,7 +15583,7 @@
 		(property ki_fp_filters "D*SOD?123*")
 		(path "/959ed40b-1e1d-40db-b358-67d40e66975e")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 1)
@@ -15884,7 +15884,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/fb87c1a0-cbd0-4cea-867b-2e5e995777fc")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -16185,7 +16185,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/0b6171d8-f363-4914-b8f8-ba7e8f3f96e2")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.261252 0.735)
@@ -16404,7 +16404,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/4e0b8715-7b8e-44cc-9aae-7c5deaac94cd")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start 0.261252 -0.735)
@@ -16623,7 +16623,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/fa25001d-7540-4d31-a47c-4e1c600aa9d5")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.227064 0.735)
@@ -16842,7 +16842,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/873e70c4-3c36-4da6-9132-acbb4dce9c9b")
 		(sheetname "Stammblatt")
-		(sheetfile "controller_lpc1115_2MU_v1.04.kicad_sch")
+		(sheetfile "lpc1115_2MU_MID.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 24.24 3.03)
@@ -17687,7 +17687,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "LPC1115_2TE_V2.00"
+	(gr_text "LPC1115_2TE_V2.01"
 		(at 146.05 92.456 0)
 		(layer "F.SilkS")
 		(uuid "7b9e4507-27f2-47c7-bb28-77d18846c430")
