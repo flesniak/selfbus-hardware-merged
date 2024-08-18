@@ -2,3 +2,4 @@
 *.s#*
 *~
 **/*-backups/*.zip
+**/fp-info-cache
