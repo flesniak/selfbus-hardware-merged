@@ -4870,16 +4870,6 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 67.31) (xy 38.1 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fdcba793-bee5-4999-a1fb-5c13cca7fb1b")
-	)
-	(wire
-		(pts
 			(xy 151.13 157.48) (xy 157.48 157.48)
 		)
 		(stroke
@@ -5517,13 +5507,13 @@
 		(at 115.57 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "239c924d-73b2-442d-aa4e-5b5a2587ef86")
 		(property "Reference" "C6"
-			(at 119.38 95.885 0)
+			(at 118.491 96.2278 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -5532,7 +5522,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 119.38 99.695 0)
+			(at 118.491 99.3522 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6095,9 +6085,10 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "48ba52b0-68fd-463a-a4b5-477684c4e1d4")
 		(property "Reference" "R11"
-			(at 69.85 112.395 0)
+			(at 69.088 112.7378 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6106,7 +6097,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 69.85 116.205 0)
+			(at 69.088 115.8622 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6167,7 +6158,7 @@
 		(fields_autoplaced yes)
 		(uuid "48bd1520-28a1-4639-89c9-eecbbe076fd0")
 		(property "Reference" "R10"
-			(at 72.39 101.6 90)
+			(at 72.39 103.0094 90)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6175,7 +6166,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 72.39 105.41 90)
+			(at 72.39 106.1338 90)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6451,7 +6442,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 118.11 120.6499 0)
+			(at 117.475 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6709,9 +6700,9 @@
 		(at 105.41 143.51 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5a9e140b-d082-4e36-8cfd-4491174d69b7")
 		(property "Reference" "R13"
@@ -7308,7 +7299,7 @@
 		(fields_autoplaced yes)
 		(uuid "749b4a15-8414-43dd-a958-31f97bd90ef3")
 		(property "Reference" "R8"
-			(at 91.44 99.695 0)
+			(at 90.678 100.0378 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -7317,7 +7308,7 @@
 			)
 		)
 		(property "Value" "82k"
-			(at 91.44 103.505 0)
+			(at 90.678 103.1622 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -7524,7 +7515,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 105.41 120.6499 0)
+			(at 104.775 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7778,8 +7769,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 88.9 114.3 0)
-		(mirror x)
+		(at 88.9 114.3 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7787,25 +7777,25 @@
 		(dnp no)
 		(uuid "8694bd80-78e9-4158-a76d-8da06c507dab")
 		(property "Reference" "R9"
-			(at 91.44 112.395 0)
+			(at 90.678 112.7378 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "100k"
-			(at 91.44 116.205 0)
+			(at 90.678 115.8622 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 87.122 114.3 90)
+			(at 90.678 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7851,9 +7841,9 @@
 		(at 99.06 137.16 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8a295438-6baf-4034-b076-b1ee8b7664df")
 		(property "Reference" "R12"
@@ -8277,7 +8267,7 @@
 		(fields_autoplaced yes)
 		(uuid "af5344f6-e526-4bef-9ae5-934fd63d1e0a")
 		(property "Reference" "C5"
-			(at 119.38 108.585 0)
+			(at 118.491 108.9278 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -8286,7 +8276,7 @@
 			)
 		)
 		(property "Value" "100p"
-			(at 119.38 112.395 0)
+			(at 118.491 112.0522 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -8776,9 +8766,10 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "b7ca2b40-1cdb-43c5-ba5b-1cbee5f7852d")
 		(property "Reference" "T1"
-			(at 105.41 111.125 0)
+			(at 105.1814 107.6578 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -8787,7 +8778,7 @@
 			)
 		)
 		(property "Value" "BC856"
-			(at 105.41 107.315 0)
+			(at 105.1814 110.7822 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -9524,7 +9515,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 91.44 120.6499 0)
+			(at 90.805 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9650,7 +9641,7 @@
 		(fields_autoplaced yes)
 		(uuid "f0481843-f056-4428-9fa8-d283748f7f88")
 		(property "Reference" "C2"
-			(at 82.55 100.33 90)
+			(at 82.55 101.8664 90)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -9658,7 +9649,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 82.55 104.14 90)
+			(at 82.55 104.9908 90)
 			(effects
 				(font
 					(size 1.778 1.5113)

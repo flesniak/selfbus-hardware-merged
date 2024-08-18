@@ -795,7 +795,7 @@
 		(path "/8a295438-6baf-4034-b076-b1ee8b7664df")
 		(sheetname "Stammblatt")
 		(sheetfile "bb_pwr_knx_v-measure.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.227064 0.735)
 			(end 0.227064 0.735)
@@ -6678,7 +6678,7 @@
 		(path "/5a9e140b-d082-4e36-8cfd-4491174d69b7")
 		(sheetname "Stammblatt")
 		(sheetfile "bb_pwr_knx_v-measure.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.227064 0.735)
 			(end 0.227064 0.735)
@@ -9977,7 +9977,7 @@
 		(path "/239c924d-73b2-442d-aa4e-5b5a2587ef86")
 		(sheetname "Stammblatt")
 		(sheetfile "bb_pwr_knx_v-measure.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start 0.261252 -0.735)
 			(end -0.261252 -0.735)

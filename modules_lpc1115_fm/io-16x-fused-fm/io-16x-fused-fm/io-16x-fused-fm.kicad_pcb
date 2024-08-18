@@ -4309,7 +4309,7 @@
 		(path "/9dcaa91a-ee1f-48ca-b97a-1be58c1ebc08")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.261252 0.735)
 			(end 0.261252 0.735)
@@ -5458,7 +5458,7 @@
 		(path "/36c1cbe3-a631-4023-aaed-1a764d680d0a")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom dnp)
 		(fp_line
 			(start -1.33 -1.33)
 			(end 0 -1.33)
@@ -6577,7 +6577,7 @@
 		(path "/3e0f4307-d135-4b57-b05a-6d780976f9d5")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start 0 -1.56)
 			(end 0.8 -1.56)
@@ -13431,7 +13431,7 @@
 		(path "/c9b0eb2c-c630-4939-b573-f311ff20d9d3")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start 0 -2.56)
 			(end -1.95 -2.56)
@@ -13907,7 +13907,7 @@
 				)
 			)
 		)
-		(property "Value" "100p"
+		(property "Value" "22p"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "e37a608c-9597-49f5-b94e-9ae06aad7f25")
@@ -19456,7 +19456,7 @@
 		(path "/39087e67-ed0a-4352-a57a-b4f6c7a4ebea")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start -0.261252 0.735)
 			(end 0.261252 0.735)
@@ -21261,7 +21261,7 @@
 		(path "/89bd225a-0769-4c4b-922d-715faf95876a")
 		(sheetname "Stammblatt")
 		(sheetfile "io-16x-fused-fm.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom dnp)
 		(fp_line
 			(start -1.33 -1.33)
 			(end 0 -1.33)
@@ -21939,7 +21939,7 @@
 				)
 			)
 		)
-		(property "Value" "220p"
+		(property "Value" "22p"
 			(at 0 1.68 180)
 			(layer "F.Fab")
 			(uuid "9fc43a20-562c-48fe-8353-10349733809b")

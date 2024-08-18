@@ -5348,12 +5348,6 @@
 		(uuid "bd08307b-0ff5-428d-b2c4-42c1949cc3fc")
 	)
 	(junction
-		(at 81.28 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c054d399-29f6-48be-8b78-db3924e8cc17")
-	)
-	(junction
 		(at 139.7 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6526,7 +6520,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 86.36) (xy 81.28 87.63)
+			(xy 80.01 86.36) (xy 80.01 87.63)
 		)
 		(stroke
 			(width 0.1524)
@@ -7256,7 +7250,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 86.36) (xy 81.28 86.36)
+			(xy 80.01 86.36) (xy 102.87 86.36)
 		)
 		(stroke
 			(width 0.1524)
@@ -9273,16 +9267,6 @@
 			(type solid)
 		)
 		(uuid "b666274e-f4af-48b0-9868-315776d11017")
-	)
-	(wire
-		(pts
-			(xy 81.28 86.36) (xy 102.87 86.36)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "b73ce1ee-11c9-4cd6-80fe-165e50f4a4b4")
 	)
 	(wire
 		(pts
@@ -12982,9 +12966,9 @@
 		(at 106.68 123.19 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2929996a-e021-4189-9962-1ddfb58e3a59")
 		(property "Reference" "R13"
@@ -13678,7 +13662,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47k"
+		(property "Value" "100k"
 			(at 133.858 166.6622 0)
 			(effects
 				(font
@@ -13946,9 +13930,9 @@
 		(at 113.03 130.81 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "52d24a88-6cc9-4f1b-bab3-1bc5b08b1a2f")
 		(property "Reference" "R16"
@@ -14080,7 +14064,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 81.28 87.63 0)
+		(at 80.01 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14089,7 +14073,7 @@
 		(fields_autoplaced yes)
 		(uuid "56c151f9-44b7-4330-b5bf-dd64a907e410")
 		(property "Reference" "#GND03"
-			(at 81.28 87.63 0)
+			(at 80.01 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14098,7 +14082,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 92.1132 0)
+			(at 80.01 92.1132 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -14106,7 +14090,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 87.63 0)
+			(at 80.01 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14115,7 +14099,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 87.63 0)
+			(at 80.01 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14124,7 +14108,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 81.28 87.63 0)
+			(at 80.01 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15270,21 +15254,21 @@
 		(fields_autoplaced yes)
 		(uuid "79740f99-ade3-4510-8fef-deaa599d66e4")
 		(property "Reference" "C18"
-			(at 243.459 164.8078 0)
+			(at 249.301 164.8078 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "100p"
-			(at 243.459 167.9322 0)
+		(property "Value" "22p"
+			(at 249.301 167.9322 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
@@ -19362,7 +19346,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "220p"
+		(property "Value" "22p"
 			(at 259.461 167.9322 0)
 			(effects
 				(font
