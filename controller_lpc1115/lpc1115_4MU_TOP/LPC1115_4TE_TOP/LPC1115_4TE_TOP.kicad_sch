@@ -19060,9 +19060,9 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95aa2d65-1731-44ed-a8db-40f829858a5d")
 		(property "Reference" "R17"
@@ -20971,9 +20971,9 @@
 		(at 81.28 130.81 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5fcdb26-dcc4-4966-952e-18a3d16cd338")
 		(property "Reference" "R16"

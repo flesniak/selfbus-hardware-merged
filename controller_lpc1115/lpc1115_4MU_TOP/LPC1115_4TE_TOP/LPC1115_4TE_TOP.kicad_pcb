@@ -12423,7 +12423,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "220p"
+		(property "Value" "22p"
 			(at 0 -1.68 180)
 			(layer "B.Fab")
 			(uuid "bf47649a-f0a9-435c-84cf-351f822dad0d")
@@ -13134,7 +13134,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100p"
+		(property "Value" "22p"
 			(at 0 -1.68 0)
 			(layer "B.Fab")
 			(uuid "8950b75c-f411-463c-aeb3-0449f0532473")
@@ -16719,7 +16719,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "47k"
+		(property "Value" "100k"
 			(at 0 -1.65 -90)
 			(layer "B.Fab")
 			(uuid "5780cc12-0299-41cd-8289-81c615f10b42")
@@ -19279,7 +19279,7 @@
 		(path "/0c8f6aed-0539-467d-9f59-b6f4fd5be2cf")
 		(sheetname "Stammblatt")
 		(sheetfile "LPC1115_4TE_TOP.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_line
 			(start 0.261252 0.735)
 			(end -0.261252 0.735)

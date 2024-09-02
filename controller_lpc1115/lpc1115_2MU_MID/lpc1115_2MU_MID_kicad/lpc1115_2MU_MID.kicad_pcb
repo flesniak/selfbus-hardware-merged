@@ -10840,7 +10840,7 @@
 		(path "/52d24a88-6cc9-4f1b-bab3-1bc5b08b1a2f")
 		(sheetname "Stammblatt")
 		(sheetfile "lpc1115_2MU_MID.kicad_sch")
-		(attr smd exclude_from_bom dnp)
+		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
 			(end 0.227064 -0.735)
@@ -13607,7 +13607,7 @@
 		(path "/2929996a-e021-4189-9962-1ddfb58e3a59")
 		(sheetname "Stammblatt")
 		(sheetfile "lpc1115_2MU_MID.kicad_sch")
-		(attr smd exclude_from_bom dnp)
+		(attr smd)
 		(fp_line
 			(start 0.227064 -0.735)
 			(end -0.227064 -0.735)
